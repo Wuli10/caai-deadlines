@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CAAI Conference Deadlines</title>
+    <link rel="stylesheet" href="styles.css?v=20260722">
+  </head>
+  <body>
+    <main class="page">
+      <header class="site-header">
+        <div>
+          <h1>CAAI Conference Deadlines</h1>
+          <p>中国人工智能学会推荐国际学术会议目录 · 2024</p>
+        </div>
+        <div class="source-meta" id="sourceMeta"></div>
+      </header>
+      <section class="metrics" id="metrics" aria-label="Summary"></section>
+      <section class="toolbar" aria-label="Filters">
+        <label class="search"><span>Search</span><input id="searchInput" type="search" autocomplete="off" placeholder="AAAI, CVPR, publisher, keyword"></label>
+        <fieldset class="rank-filter">
+          <legend>CAAI</legend>
+          <label class="rank-chip rank-a"><input type="checkbox" name="rank" value="A" checked><span>A</span></label>
+          <label class="rank-chip rank-b"><input type="checkbox" name="rank" value="B" checked><span>B</span></label>
+          <label class="rank-chip rank-c"><input type="checkbox" name="rank" value="C" checked><span>C</span></label>
+        </fieldset>
+        <label class="select-control"><span>Status</span><select id="statusFilter"><option value="all">All</option><option value="upcoming">Upcoming</option><option value="tbd">TBD</option><option value="closed">Closed</option></select></label>
+        <label class="select-control"><span>Sort</span><select id="sortBy"><option value="deadline">Deadline</option><option value="rank">CAAI rank</option><option value="name">Name</option></select></label>
+      </section>
+      <div class="list-heading"><span id="resultCount"></span><span>Deadline times follow the source timezone.</span></div>
+      <section class="conference-list" id="conferenceList" aria-live="polite"></section>
+      <footer class="footer"><span>Conference scope: CAAI recommended international conferences only.</span><a href="https://ccfddl.com/" target="_blank" rel="noreferrer">ccfddl reference</a></footer>
+    </main>
+    <script src="data.js?v=20260722"></script>
+    <script src="app.js?v=live-countdown"></script>
+  </body>
+</html>
