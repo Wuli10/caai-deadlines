@@ -11,9 +11,9 @@ window.CAAI_DATA = {
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
     "deadlineSourceBuildDate": "Wed, 22 Jul 2026 10:33:40 +0000",
-    "generatedAt": "2026-07-22T19:47:34.201401+00:00",
+    "generatedAt": "2026-07-23T19:48:55.257847+00:00",
     "matchedConferenceCount": 103,
-    "upcomingMatchedConferenceCount": 24
+    "upcomingMatchedConferenceCount": 23
   },
   "conferences": [
     {
@@ -845,19 +845,17 @@ window.CAAI_DATA = {
       "key": "tabletop",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "ISS 2026 Deadline [Summer round]",
-          "name": "ACM International Conference on Interactive Surfaces and Spaces",
-          "deadlineIso": "2026-07-22T23:59:59-12:00",
-          "deadlineText": "2026-07-22 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "November 23-26, 2026",
-          "location": "Turin, Italy",
-          "website": "https://iss.acm.org/2026/",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "ISS 2026 Deadline [Summer round]",
+        "name": "ACM International Conference on Interactive Surfaces and Spaces",
+        "deadlineIso": "2026-07-22T23:59:59-12:00",
+        "deadlineText": "2026-07-22 23:59:59",
+        "deadlineZone": "AoE",
+        "eventDate": "November 23-26, 2026",
+        "location": "Turin, Italy",
+        "website": "https://iss.acm.org/2026/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "B06",
