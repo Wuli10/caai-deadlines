@@ -11,7 +11,7 @@ window.CAAI_DATA = {
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
     "deadlineSourceBuildDate": "Fri, 24 Jul 2026 13:30:09 +0000",
-    "generatedAt": "2026-07-24T19:49:59.583882+00:00",
+    "generatedAt": "2026-07-25T19:37:21.197403+00:00",
     "matchedConferenceCount": 103,
     "upcomingMatchedConferenceCount": 23
   },
@@ -2405,17 +2405,6 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "deadlines": [
-        {
-          "title": "HPCA 2027 Abstract Deadline",
-          "name": "IEEE International Symposium on High-Performance Computer Architecture",
-          "deadlineIso": "2026-07-24T23:59:59-12:00",
-          "deadlineText": "2026-07-24 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "Jan 30-Feb 3, 2027",
-          "location": "Salt Lake City, Utah",
-          "website": "https://conf.researchr.org/home/hpca-2027",
-          "source": "ccfddl"
-        },
         {
           "title": "HPCA 2027 Deadline",
           "name": "IEEE International Symposium on High-Performance Computer Architecture",
