@@ -11,9 +11,9 @@ window.CAAI_DATA = {
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
     "deadlineSourceBuildDate": "Sun, 26 Jul 2026 05:07:41 +0000",
-    "generatedAt": "2026-07-26T19:38:31.131199+00:00",
+    "generatedAt": "2026-07-27T19:58:29.478785+00:00",
     "matchedConferenceCount": 103,
-    "upcomingMatchedConferenceCount": 23
+    "upcomingMatchedConferenceCount": 22
   },
   "conferences": [
     {
@@ -104,19 +104,17 @@ window.CAAI_DATA = {
       "key": "kdd",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "SIGKDD 2027 Deadline [1st round of 2 total rounds]",
-          "name": "ACM Knowledge Discovery and Data Mining",
-          "deadlineIso": "2026-07-26T23:59:59-12:00",
-          "deadlineText": "2026-07-26 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "August 2027 (exact dates TBD)",
-          "location": "San Jose, California, USA",
-          "website": "https://kdd2027.kdd.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "SIGKDD 2027 Deadline [1st round of 2 total rounds]",
+        "name": "ACM Knowledge Discovery and Data Mining",
+        "deadlineIso": "2026-07-26T23:59:59-12:00",
+        "deadlineText": "2026-07-26 23:59:59",
+        "deadlineZone": "AoE",
+        "eventDate": "August 2027 (exact dates TBD)",
+        "location": "San Jose, California, USA",
+        "website": "https://kdd2027.kdd.org/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "A05",
