@@ -10,10 +10,10 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Sun, 26 Jul 2026 05:07:41 +0000",
-    "generatedAt": "2026-07-27T19:58:29.478785+00:00",
+    "deadlineSourceBuildDate": "Tue, 28 Jul 2026 02:17:29 +0000",
+    "generatedAt": "2026-07-28T19:55:41.730686+00:00",
     "matchedConferenceCount": 103,
-    "upcomingMatchedConferenceCount": 22
+    "upcomingMatchedConferenceCount": 23
   },
   "conferences": [
     {
@@ -710,17 +710,19 @@ window.CAAI_DATA = {
       "key": "icra",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "ICRA 2026 Deadline",
-        "name": "IEEE International Conference on Robotics and Automation",
-        "deadlineIso": "2025-09-15T23:59:00-08:00",
-        "deadlineText": "2025-09-15 23:59:00",
-        "deadlineZone": "UTC-8",
-        "eventDate": "Jun 1-5, 2026",
-        "location": "Vienna, Austria",
-        "website": "https://2026.ieee-icra.org/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "ICRA 2027 Deadline",
+          "name": "IEEE International Conference on Robotics and Automation",
+          "deadlineIso": "2026-09-15T23:59:59-07:00",
+          "deadlineText": "2026-09-15 23:59:59",
+          "deadlineZone": "UTC-7",
+          "eventDate": "May 24-28, 2027",
+          "location": "Seoul, Republic of Korea",
+          "website": "https://2027.ieee-icra.org/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "B01",
