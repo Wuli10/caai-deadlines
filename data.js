@@ -10,8 +10,8 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Tue, 28 Jul 2026 02:17:29 +0000",
-    "generatedAt": "2026-07-28T19:55:41.730686+00:00",
+    "deadlineSourceBuildDate": "Wed, 29 Jul 2026 03:40:01 +0000",
+    "generatedAt": "2026-07-29T19:47:37.393568+00:00",
     "matchedConferenceCount": 103,
     "upcomingMatchedConferenceCount": 23
   },
@@ -28,19 +28,17 @@ window.CAAI_DATA = {
       "key": "aaai",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "AAAI 2027 Deadline",
-          "name": "AAAI Conference on Artificial Intelligence",
-          "deadlineIso": "2026-07-28T23:59:59-12:00",
-          "deadlineText": "2026-07-28 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "February 16-23, 2027",
-          "location": "Montréal, Québec, Canada",
-          "website": "https://aaai.org/conference/aaai/aaai-27/",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "AAAI 2027 Deadline",
+        "name": "AAAI Conference on Artificial Intelligence",
+        "deadlineIso": "2026-07-28T23:59:59-12:00",
+        "deadlineText": "2026-07-28 23:59:59",
+        "deadlineZone": "UTC-12",
+        "eventDate": "February 16-23, 2027",
+        "location": "Montréal, Québec, Canada",
+        "website": "https://aaai.org/conference/aaai/aaai-27/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "A02",
@@ -540,17 +538,30 @@ window.CAAI_DATA = {
       "key": "iclr",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "ICLR 2026 Deadline",
-        "name": "International Conference on Learning Representations",
-        "deadlineIso": "2025-09-24T23:59:59-12:00",
-        "deadlineText": "2025-09-24 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "May 01-05, 2026",
-        "location": "Brazil",
-        "website": "https://iclr.cc/Conferences/2026",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "ICLR 2027 Abstract Deadline",
+          "name": "International Conference on Learning Representations",
+          "deadlineIso": "2026-09-11T23:59:59-12:00",
+          "deadlineText": "2026-09-11 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "April 27-30, 2027",
+          "location": "San Francisco, CA, USA",
+          "website": "https://iclr.cc/Conferences/2027",
+          "source": "ccfddl"
+        },
+        {
+          "title": "ICLR 2027 Deadline",
+          "name": "International Conference on Learning Representations",
+          "deadlineIso": "2026-09-16T23:59:59-12:00",
+          "deadlineText": "2026-09-16 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "April 27-30, 2027",
+          "location": "San Francisco, CA, USA",
+          "website": "https://iclr.cc/Conferences/2027",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "A22",
