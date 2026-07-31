@@ -10,8 +10,8 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Thu, 30 Jul 2026 02:32:00 +0000",
-    "generatedAt": "2026-07-30T19:55:27.474512+00:00",
+    "deadlineSourceBuildDate": "Fri, 31 Jul 2026 03:20:03 +0000",
+    "generatedAt": "2026-07-31T19:55:55.717830+00:00",
     "matchedConferenceCount": 103,
     "upcomingMatchedConferenceCount": 23
   },
@@ -882,7 +882,7 @@ window.CAAI_DATA = {
       "notes": [],
       "deadlines": [
         {
-          "title": "WSDM 2027 Abstract Deadline",
+          "title": "WSDM 2027 Abstract Deadline [Full Paper]",
           "name": "International Conference on Web Search and Data Mining",
           "deadlineIso": "2026-08-17T23:59:59-12:00",
           "deadlineText": "2026-08-17 23:59:59",
@@ -893,10 +893,21 @@ window.CAAI_DATA = {
           "source": "ccfddl"
         },
         {
-          "title": "WSDM 2027 Deadline",
+          "title": "WSDM 2027 Deadline [Full Paper]",
           "name": "International Conference on Web Search and Data Mining",
           "deadlineIso": "2026-08-24T23:59:59-12:00",
           "deadlineText": "2026-08-24 23:59:59",
+          "deadlineZone": "UTC-12",
+          "eventDate": "February 15 - 19, 2027",
+          "location": "Cordis, Hong Kong SAR, China",
+          "website": "https://wsdm-conference.org/2027/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "WSDM 2027 Deadline [Short Paper]",
+          "name": "International Conference on Web Search and Data Mining",
+          "deadlineIso": "2026-11-17T23:59:59-12:00",
+          "deadlineText": "2026-11-17 23:59:59",
           "deadlineZone": "UTC-12",
           "eventDate": "February 15 - 19, 2027",
           "location": "Cordis, Hong Kong SAR, China",
