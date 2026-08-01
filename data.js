@@ -10,10 +10,10 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Fri, 31 Jul 2026 03:20:03 +0000",
-    "generatedAt": "2026-07-31T19:55:55.717830+00:00",
+    "deadlineSourceBuildDate": "Sat, 01 Aug 2026 03:36:32 +0000",
+    "generatedAt": "2026-08-01T19:37:03.438182+00:00",
     "matchedConferenceCount": 103,
-    "upcomingMatchedConferenceCount": 23
+    "upcomingMatchedConferenceCount": 22
   },
   "conferences": [
     {
@@ -2426,19 +2426,17 @@ window.CAAI_DATA = {
       "key": "hpca",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "HPCA 2027 Deadline",
-          "name": "IEEE International Symposium on High-Performance Computer Architecture",
-          "deadlineIso": "2026-07-31T23:59:59-12:00",
-          "deadlineText": "2026-07-31 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "Jan 30-Feb 3, 2027",
-          "location": "Salt Lake City, Utah",
-          "website": "https://conf.researchr.org/home/hpca-2027",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "HPCA 2027 Deadline",
+        "name": "IEEE International Symposium on High-Performance Computer Architecture",
+        "deadlineIso": "2026-07-31T23:59:59-12:00",
+        "deadlineText": "2026-07-31 23:59:59",
+        "deadlineZone": "AoE",
+        "eventDate": "Jan 30-Feb 3, 2027",
+        "location": "Salt Lake City, Utah",
+        "website": "https://conf.researchr.org/home/hpca-2027",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "C29",
@@ -2669,28 +2667,6 @@ window.CAAI_DATA = {
       "notes": [],
       "deadlines": [
         {
-          "title": "ADMA 2026 Deadline [Industry Track]",
-          "name": "The International Conference on Advanced Data Mining and Applications",
-          "deadlineIso": "2026-07-31T23:59:59-12:00",
-          "deadlineText": "2026-07-31 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "November 13 - 15, 2026",
-          "location": "Hong Kong, China",
-          "website": "https://adma2026.github.io/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "ADMA 2026 Deadline [Special Session Paper]",
-          "name": "The International Conference on Advanced Data Mining and Applications",
-          "deadlineIso": "2026-07-31T23:59:59-12:00",
-          "deadlineText": "2026-07-31 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "November 13 - 15, 2026",
-          "location": "Hong Kong, China",
-          "website": "https://adma2026.github.io/",
-          "source": "ccfddl"
-        },
-        {
           "title": "ADMA 2026 Deadline [Short Paper]",
           "name": "The International Conference on Advanced Data Mining and Applications",
           "deadlineIso": "2026-08-07T23:59:59-12:00",
@@ -2703,6 +2679,17 @@ window.CAAI_DATA = {
         },
         {
           "title": "ADMA 2026 Deadline [Poster Paper]",
+          "name": "The International Conference on Advanced Data Mining and Applications",
+          "deadlineIso": "2026-09-11T23:59:59-12:00",
+          "deadlineText": "2026-09-11 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "November 13 - 15, 2026",
+          "location": "Hong Kong, China",
+          "website": "https://adma2026.github.io/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "ADMA 2026 Deadline [Encore Paper]",
           "name": "The International Conference on Advanced Data Mining and Applications",
           "deadlineIso": "2026-09-11T23:59:59-12:00",
           "deadlineText": "2026-09-11 23:59:59",
