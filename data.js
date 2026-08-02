@@ -10,8 +10,8 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Sat, 01 Aug 2026 03:36:32 +0000",
-    "generatedAt": "2026-08-01T19:37:03.438182+00:00",
+    "deadlineSourceBuildDate": "Sun, 02 Aug 2026 10:35:13 +0000",
+    "generatedAt": "2026-08-02T19:37:32.548730+00:00",
     "matchedConferenceCount": 103,
     "upcomingMatchedConferenceCount": 22
   },
@@ -545,7 +545,7 @@ window.CAAI_DATA = {
           "deadlineIso": "2026-09-18T23:59:59-12:00",
           "deadlineText": "2026-09-18 23:59:59",
           "deadlineZone": "AoE",
-          "eventDate": "TBD",
+          "eventDate": "April 26-30, 2027",
           "location": "San Francisco, CA, USA",
           "website": "https://iclr.cc/Conferences/2027",
           "source": "ccfddl"
@@ -556,7 +556,7 @@ window.CAAI_DATA = {
           "deadlineIso": "2026-09-25T23:59:59-12:00",
           "deadlineText": "2026-09-25 23:59:59",
           "deadlineZone": "AoE",
-          "eventDate": "TBD",
+          "eventDate": "April 26-30, 2027",
           "location": "San Francisco, CA, USA",
           "website": "https://iclr.cc/Conferences/2027",
           "source": "ccfddl"
