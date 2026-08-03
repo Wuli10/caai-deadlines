@@ -10,10 +10,10 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Sun, 02 Aug 2026 10:35:13 +0000",
-    "generatedAt": "2026-08-02T19:37:32.548730+00:00",
+    "deadlineSourceBuildDate": "Mon, 03 Aug 2026 07:40:48 +0000",
+    "generatedAt": "2026-08-03T20:01:20.788203+00:00",
     "matchedConferenceCount": 103,
-    "upcomingMatchedConferenceCount": 22
+    "upcomingMatchedConferenceCount": 23
   },
   "conferences": [
     {
@@ -989,17 +989,30 @@ window.CAAI_DATA = {
       "key": "eurographics",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "Eurographics 2026 Deadline",
-        "name": "Eurographics",
-        "deadlineIso": "2025-09-26T23:59:59+00:00",
-        "deadlineText": "2025-09-26 23:59:59",
-        "deadlineZone": "UTC",
-        "eventDate": "May 4-8, 2026",
-        "location": "Aachen, Germany",
-        "website": "https://eg2026.github.io/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "Eurographics 2027 Abstract Deadline",
+          "name": "Eurographics",
+          "deadlineIso": "2026-09-25T23:59:59+00:00",
+          "deadlineText": "2026-09-25 23:59:59",
+          "deadlineZone": "UTC",
+          "eventDate": "May 10-14, 2027",
+          "location": "Lucca, Italy",
+          "website": "https://eg2027.isti.cnr.it/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "Eurographics 2027 Deadline",
+          "name": "Eurographics",
+          "deadlineIso": "2026-10-01T23:59:59+00:00",
+          "deadlineText": "2026-10-01 23:59:59",
+          "deadlineZone": "UTC",
+          "eventDate": "May 10-14, 2027",
+          "location": "Lucca, Italy",
+          "website": "https://eg2027.isti.cnr.it/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "B11",
@@ -1892,8 +1905,8 @@ window.CAAI_DATA = {
         {
           "title": "MMAsia 2026 Deadline [Regular Paper / Special Session Submission]",
           "name": "ACM Multimedia Asia",
-          "deadlineIso": "2026-08-03T23:59:59-12:00",
-          "deadlineText": "2026-08-03 23:59:59",
+          "deadlineIso": "2026-08-14T23:59:59-12:00",
+          "deadlineText": "2026-08-14 23:59:59",
           "deadlineZone": "AoE",
           "eventDate": "December 15-18, 2026",
           "location": "VinUniversity, Hanoi, Vietnam",
