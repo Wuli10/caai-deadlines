@@ -10,8 +10,8 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Mon, 03 Aug 2026 07:40:48 +0000",
-    "generatedAt": "2026-08-03T20:01:20.788203+00:00",
+    "deadlineSourceBuildDate": "Tue, 04 Aug 2026 06:23:39 +0000",
+    "generatedAt": "2026-08-04T20:02:34.057595+00:00",
     "matchedConferenceCount": 103,
     "upcomingMatchedConferenceCount": 23
   },
@@ -1485,17 +1485,19 @@ window.CAAI_DATA = {
       "key": "coling",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "COLING 2025 Deadline [First Call for Main Conference Papers]",
-        "name": "INTERNATIONNAL CONFERENCE ON COMPUTATIONAL LINGUISTICS",
-        "deadlineIso": "2024-09-16T23:59:59-12:00",
-        "deadlineText": "2024-09-16 23:59:59",
-        "deadlineZone": "UTC-12",
-        "eventDate": "Jan 19 - Jan 24, 2025",
-        "location": "Abu Dhabi, UAE",
-        "website": "https://coling2025.org/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "COLING 2027 Deadline [ARR Submission]",
+          "name": "INTERNATIONNAL CONFERENCE ON COMPUTATIONAL LINGUISTICS",
+          "deadlineIso": "2026-10-12T23:59:59-12:00",
+          "deadlineText": "2026-10-12 23:59:59",
+          "deadlineZone": "UTC-12",
+          "eventDate": "May 9-14, 2027",
+          "location": "Macau SAR, China",
+          "website": "https://2027.coling-iccl.org/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "B33",
@@ -3269,19 +3271,17 @@ window.CAAI_DATA = {
       "key": "eacl",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "EACL 2027 Deadline [ARR Submission; commitment deadline: 2026-10-11]",
-          "name": "The Annual Conference of the European Chapter of the Association for Computational Linguistics",
-          "deadlineIso": "2026-08-03T23:59:59-12:00",
-          "deadlineText": "2026-08-03 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "March 9-14, 2027",
-          "location": "Athens, Greece",
-          "website": "https://2027.eacl.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "EACL 2027 Deadline [ARR Submission; commitment deadline: 2026-10-11]",
+        "name": "The Annual Conference of the European Chapter of the Association for Computational Linguistics",
+        "deadlineIso": "2026-08-03T23:59:59-12:00",
+        "deadlineText": "2026-08-03 23:59:59",
+        "deadlineZone": "UTC-12",
+        "eventDate": "March 9-14, 2027",
+        "location": "Athens, Greece",
+        "website": "https://2027.eacl.org/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "C77",
