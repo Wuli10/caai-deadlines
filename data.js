@@ -11,9 +11,9 @@ window.CAAI_DATA = {
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
     "deadlineSourceBuildDate": "Tue, 04 Aug 2026 06:23:39 +0000",
-    "generatedAt": "2026-08-04T20:02:34.057595+00:00",
+    "generatedAt": "2026-08-05T19:58:07.884359+00:00",
     "matchedConferenceCount": 103,
-    "upcomingMatchedConferenceCount": 23
+    "upcomingMatchedConferenceCount": 22
   },
   "conferences": [
     {
@@ -1087,19 +1087,17 @@ window.CAAI_DATA = {
       "key": "cidr",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "CIDR 2027 Deadline",
-          "name": "International Conference on Innovative Data Systems Research",
-          "deadlineIso": "2026-08-04T23:59:59-07:00",
-          "deadlineText": "2026-08-04 23:59:59",
-          "deadlineZone": "UTC-7",
-          "eventDate": "January 24-27, 2027",
-          "location": "Amsterdam, The Netherlands",
-          "website": "https://www.cidrdb.org/cidr2027/",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "CIDR 2027 Deadline",
+        "name": "International Conference on Innovative Data Systems Research",
+        "deadlineIso": "2026-08-04T23:59:59-07:00",
+        "deadlineText": "2026-08-04 23:59:59",
+        "deadlineZone": "UTC-7",
+        "eventDate": "January 24-27, 2027",
+        "location": "Amsterdam, The Netherlands",
+        "website": "https://www.cidrdb.org/cidr2027/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "B15",
