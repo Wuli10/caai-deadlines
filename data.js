@@ -11,7 +11,7 @@ window.CAAI_DATA = {
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
     "deadlineSourceBuildDate": "Tue, 04 Aug 2026 06:23:39 +0000",
-    "generatedAt": "2026-08-07T19:18:38.887163+00:00",
+    "generatedAt": "2026-08-08T19:02:04.409643+00:00",
     "matchedConferenceCount": 103,
     "upcomingMatchedConferenceCount": 22
   },
@@ -2679,17 +2679,6 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "deadlines": [
-        {
-          "title": "ADMA 2026 Deadline [Short Paper]",
-          "name": "The International Conference on Advanced Data Mining and Applications",
-          "deadlineIso": "2026-08-07T23:59:59-12:00",
-          "deadlineText": "2026-08-07 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "November 13 - 15, 2026",
-          "location": "Hong Kong, China",
-          "website": "https://adma2026.github.io/",
-          "source": "ccfddl"
-        },
         {
           "title": "ADMA 2026 Deadline [Poster Paper]",
           "name": "The International Conference on Advanced Data Mining and Applications",
