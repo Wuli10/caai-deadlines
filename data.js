@@ -10,10 +10,10 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Mon, 10 Aug 2026 11:56:56 +0000",
-    "generatedAt": "2026-08-10T19:20:56.316797+00:00",
+    "deadlineSourceBuildDate": "Tue, 11 Aug 2026 12:16:42 +0000",
+    "generatedAt": "2026-08-11T19:28:30.832448+00:00",
     "matchedConferenceCount": 103,
-    "upcomingMatchedConferenceCount": 22
+    "upcomingMatchedConferenceCount": 23
   },
   "conferences": [
     {
@@ -2012,17 +2012,19 @@ window.CAAI_DATA = {
       "key": "alt",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "ALT 2026 Deadline",
-        "name": "International Conference on Algorithmic Learning Theory",
-        "deadlineIso": "2025-10-02T09:59:59+00:00",
-        "deadlineText": "2025-10-02 09:59:59",
-        "deadlineZone": "UTC+0",
-        "eventDate": "February 23-26, 2026",
-        "location": "Fields Institute, Toronto, Canada",
-        "website": "https://algorithmiclearningtheory.org/alt2026/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "ALT 2027 Deadline",
+          "name": "International Conference on Algorithmic Learning Theory",
+          "deadlineIso": "2026-10-12T23:59:59-12:00",
+          "deadlineText": "2026-10-12 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "March 9-12, 2027",
+          "location": "Leiden, Netherlands",
+          "website": "https://algorithmiclearningtheory.org/alt2027/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "C09",
