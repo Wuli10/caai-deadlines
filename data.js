@@ -10,8 +10,8 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Thu, 13 Aug 2026 02:54:09 +0000",
-    "generatedAt": "2026-08-13T19:28:26.172014+00:00",
+    "deadlineSourceBuildDate": "Fri, 14 Aug 2026 07:54:47 +0000",
+    "generatedAt": "2026-08-14T19:16:41.473131+00:00",
     "matchedConferenceCount": 103,
     "upcomingMatchedConferenceCount": 23
   },
@@ -820,17 +820,6 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "deadlines": [
-        {
-          "title": "IUI 2027 Abstract Deadline",
-          "name": "ACM Conference on Intelligent User Interfaces",
-          "deadlineIso": "2026-08-13T23:59:59-12:00",
-          "deadlineText": "2026-08-13 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "February 8-11, 2027",
-          "location": "Helsinki, Finland",
-          "website": "https://iui.hosting.acm.org/2027/",
-          "source": "ccfddl"
-        },
         {
           "title": "IUI 2027 Deadline",
           "name": "ACM Conference on Intelligent User Interfaces",
