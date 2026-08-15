@@ -11,7 +11,7 @@ window.CAAI_DATA = {
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
     "deadlineSourceBuildDate": "Fri, 14 Aug 2026 07:54:47 +0000",
-    "generatedAt": "2026-08-14T19:16:41.473131+00:00",
+    "generatedAt": "2026-08-15T18:49:58.081002+00:00",
     "matchedConferenceCount": 103,
     "upcomingMatchedConferenceCount": 23
   },
@@ -1891,17 +1891,6 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "deadlines": [
-        {
-          "title": "MMAsia 2026 Deadline [Regular Paper]",
-          "name": "ACM Multimedia Asia",
-          "deadlineIso": "2026-08-14T23:59:59-12:00",
-          "deadlineText": "2026-08-14 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "December 15-18, 2026",
-          "location": "VinUniversity, Hanoi, Vietnam",
-          "website": "https://www.mmasia2026.org/",
-          "source": "ccfddl"
-        },
         {
           "title": "MMAsia 2026 Deadline [Special Session Paper]",
           "name": "ACM Multimedia Asia",
