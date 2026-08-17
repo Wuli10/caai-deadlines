@@ -11,9 +11,9 @@ window.CAAI_DATA = {
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
     "deadlineSourceBuildDate": "Fri, 14 Aug 2026 07:54:47 +0000",
-    "generatedAt": "2026-08-16T18:49:14.030645+00:00",
+    "generatedAt": "2026-08-17T19:00:43.044823+00:00",
     "matchedConferenceCount": 103,
-    "upcomingMatchedConferenceCount": 23
+    "upcomingMatchedConferenceCount": 22
   },
   "conferences": [
     {
@@ -2958,19 +2958,17 @@ window.CAAI_DATA = {
       "key": "mmm",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "MMM 2027 Deadline",
-          "name": "International Conference on Multimedia Modeling",
-          "deadlineIso": "2026-08-16T23:59:59-12:00",
-          "deadlineText": "2026-08-16 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "January 5-8, 2027",
-          "location": "Siem Reap, Cambodia",
-          "website": "https://www.mmm2027.net/",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "MMM 2027 Deadline",
+        "name": "International Conference on Multimedia Modeling",
+        "deadlineIso": "2026-08-16T23:59:59-12:00",
+        "deadlineText": "2026-08-16 23:59:59",
+        "deadlineZone": "AoE",
+        "eventDate": "January 5-8, 2027",
+        "location": "Siem Reap, Cambodia",
+        "website": "https://www.mmm2027.net/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "C60",
