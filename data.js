@@ -11,7 +11,7 @@ window.CAAI_DATA = {
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
     "deadlineSourceBuildDate": "Fri, 14 Aug 2026 07:54:47 +0000",
-    "generatedAt": "2026-08-18T18:59:40.450909+00:00",
+    "generatedAt": "2026-08-19T18:56:01.048616+00:00",
     "matchedConferenceCount": 103,
     "upcomingMatchedConferenceCount": 22
   },
