@@ -11,9 +11,9 @@ window.CAAI_DATA = {
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
     "deadlineSourceBuildDate": "Thu, 20 Aug 2026 06:42:14 +0000",
-    "generatedAt": "2026-08-20T19:03:09.516261+00:00",
+    "generatedAt": "2026-08-21T18:59:37.518316+00:00",
     "matchedConferenceCount": 103,
-    "upcomingMatchedConferenceCount": 22
+    "upcomingMatchedConferenceCount": 21
   },
   "conferences": [
     {
@@ -819,19 +819,17 @@ window.CAAI_DATA = {
       "key": "iui",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "IUI 2027 Deadline",
-          "name": "ACM Conference on Intelligent User Interfaces",
-          "deadlineIso": "2026-08-20T23:59:59-12:00",
-          "deadlineText": "2026-08-20 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "February 8-11, 2027",
-          "location": "Helsinki, Finland",
-          "website": "https://iui.hosting.acm.org/2027/",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "IUI 2027 Deadline",
+        "name": "ACM Conference on Intelligent User Interfaces",
+        "deadlineIso": "2026-08-20T23:59:59-12:00",
+        "deadlineText": "2026-08-20 23:59:59",
+        "deadlineZone": "AoE",
+        "eventDate": "February 8-11, 2027",
+        "location": "Helsinki, Finland",
+        "website": "https://iui.hosting.acm.org/2027/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "B05",
