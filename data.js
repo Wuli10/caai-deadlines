@@ -10,8 +10,8 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Thu, 20 Aug 2026 06:42:14 +0000",
-    "generatedAt": "2026-08-24T19:03:02.678884+00:00",
+    "deadlineSourceBuildDate": "Tue, 25 Aug 2026 14:03:56 +0000",
+    "generatedAt": "2026-08-25T19:00:47.050534+00:00",
     "matchedConferenceCount": 103,
     "upcomingMatchedConferenceCount": 21
   },
@@ -108,7 +108,7 @@ window.CAAI_DATA = {
         "deadlineIso": "2026-07-26T23:59:59-12:00",
         "deadlineText": "2026-07-26 23:59:59",
         "deadlineZone": "AoE",
-        "eventDate": "August 2027 (exact dates TBD)",
+        "eventDate": "August 1-5, 2027",
         "location": "San Jose, California, USA",
         "website": "https://kdd2027.kdd.org/",
         "source": "ccfddl"
@@ -382,17 +382,6 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "deadlines": [
-        {
-          "title": "IEEE VR 2027 Abstract Deadline",
-          "name": "IEEE Virtual Reality",
-          "deadlineIso": "2026-08-24T23:59:59-12:00",
-          "deadlineText": "2026-08-24 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "February 27 - March 3, 2027",
-          "location": "Melbourne, Australia",
-          "website": "https://ieeevr.org/2027/",
-          "source": "ccfddl"
-        },
         {
           "title": "IEEE VR 2027 Deadline",
           "name": "IEEE Virtual Reality",
@@ -868,17 +857,6 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "deadlines": [
-        {
-          "title": "WSDM 2027 Deadline [Full Paper]",
-          "name": "International Conference on Web Search and Data Mining",
-          "deadlineIso": "2026-08-24T23:59:59-12:00",
-          "deadlineText": "2026-08-24 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "February 15 - 19, 2027",
-          "location": "Cordis, Hong Kong SAR, China",
-          "website": "https://wsdm-conference.org/2027/",
-          "source": "ccfddl"
-        },
         {
           "title": "WSDM 2027 Deadline [Short Paper]",
           "name": "International Conference on Web Search and Data Mining",
