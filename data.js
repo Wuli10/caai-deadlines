@@ -10,10 +10,10 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Wed, 26 Aug 2026 14:12:35 +0000",
-    "generatedAt": "2026-08-26T20:07:32.929456+00:00",
+    "deadlineSourceBuildDate": "Thu, 27 Aug 2026 07:11:26 +0000",
+    "generatedAt": "2026-08-28T02:12:02.736995+00:00",
     "matchedConferenceCount": 103,
-    "upcomingMatchedConferenceCount": 21
+    "upcomingMatchedConferenceCount": 23
   },
   "conferences": [
     {
@@ -2129,17 +2129,30 @@ window.CAAI_DATA = {
       "key": "cvm",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "CVM 2026 Deadline",
-        "name": "The international conference on Computational Visual Media",
-        "deadlineIso": "2025-10-13T23:59:59+00:00",
-        "deadlineText": "2025-10-13 23:59:59",
-        "deadlineZone": "UTC+0",
-        "eventDate": "April 10-12, 2026",
-        "location": "Seoul, Korea",
-        "website": "http://iccvm.org/2026/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "CVM 2027 Abstract Deadline",
+          "name": "The international conference on Computational Visual Media",
+          "deadlineIso": "2026-10-23T23:59:59+00:00",
+          "deadlineText": "2026-10-23 23:59:59",
+          "deadlineZone": "UTC+0",
+          "eventDate": "April 9-11, 2027",
+          "location": "Nanyang Technological University, Singapore",
+          "website": "http://iccvm.org/2027/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "CVM 2027 Deadline",
+          "name": "The international conference on Computational Visual Media",
+          "deadlineIso": "2026-10-26T23:59:59+00:00",
+          "deadlineText": "2026-10-26 23:59:59",
+          "deadlineZone": "UTC+0",
+          "eventDate": "April 9-11, 2027",
+          "location": "Nanyang Technological University, Singapore",
+          "website": "http://iccvm.org/2027/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "C18",
@@ -2360,17 +2373,19 @@ window.CAAI_DATA = {
       "key": "cec",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "IEEE CEC 2026 Deadline",
-        "name": "IEEE Congress on Evolutionary Computation",
-        "deadlineIso": "2026-01-31T23:59:59-12:00",
-        "deadlineText": "2026-01-31 23:59:59",
-        "deadlineZone": "UTC-12",
-        "eventDate": "June 22-26, 2026",
-        "location": "Maastricht Exhibition & Congress Centre (MECC), The Netherlands",
-        "website": "https://attend.ieee.org/wcci-2026/ieee-cec-2025/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "IEEE CEC 2027 Deadline",
+          "name": "IEEE Congress on Evolutionary Computation",
+          "deadlineIso": "2027-02-28T23:59:59-12:00",
+          "deadlineText": "2027-02-28 23:59:59",
+          "deadlineZone": "UTC-12",
+          "eventDate": "July 25-28, 2027",
+          "location": "Edinburgh, Scotland, UK",
+          "website": "https://ieeecec.org/2027",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "C28",
