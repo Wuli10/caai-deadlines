@@ -11,9 +11,9 @@ window.CAAI_DATA = {
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
     "deadlineSourceBuildDate": "Thu, 27 Aug 2026 07:11:26 +0000",
-    "generatedAt": "2026-08-29T01:46:28.463809+00:00",
+    "generatedAt": "2026-08-29T20:58:10.188870+00:00",
     "matchedConferenceCount": 103,
-    "upcomingMatchedConferenceCount": 22
+    "upcomingMatchedConferenceCount": 21
   },
   "conferences": [
     {
@@ -1352,19 +1352,17 @@ window.CAAI_DATA = {
       "key": "wacv",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "WACV 2027 Deadline [Second round]",
-          "name": "IEEE/CVF Winter Conference on Applications of Computer Vision",
-          "deadlineIso": "2026-08-28T23:59:59-12:00",
-          "deadlineText": "2026-08-28 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "Jan 5 - 9, 2027",
-          "location": "Disney Springs, Buena Vista, FL, USA",
-          "website": "https://wacv.thecvf.com/",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "WACV 2027 Deadline [Second round]",
+        "name": "IEEE/CVF Winter Conference on Applications of Computer Vision",
+        "deadlineIso": "2026-08-28T23:59:59-12:00",
+        "deadlineText": "2026-08-28 23:59:59",
+        "deadlineZone": "AoE",
+        "eventDate": "Jan 5 - 9, 2027",
+        "location": "Disney Springs, Buena Vista, FL, USA",
+        "website": "https://wacv.thecvf.com/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "B30",
