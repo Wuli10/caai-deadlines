@@ -11,9 +11,9 @@ window.CAAI_DATA = {
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
     "deadlineSourceBuildDate": "Thu, 27 Aug 2026 07:11:26 +0000",
-    "generatedAt": "2026-08-28T02:12:02.736995+00:00",
+    "generatedAt": "2026-08-29T01:46:28.463809+00:00",
     "matchedConferenceCount": 103,
-    "upcomingMatchedConferenceCount": 23
+    "upcomingMatchedConferenceCount": 22
   },
   "conferences": [
     {
@@ -2612,19 +2612,17 @@ window.CAAI_DATA = {
       "key": "3dim",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "3DV 2027 Deadline [Supplementary material due Sep 2, 2026. All deadlines are 11:00 am PDT.]",
-          "name": "International Conference on 3D Vision",
-          "deadlineIso": "2026-08-28T11:00:00-07:00",
-          "deadlineText": "2026-08-28 11:00:00",
-          "deadlineZone": "UTC-7",
-          "eventDate": "April 6-9, 2027",
-          "location": "Thessaloniki, Greece",
-          "website": "https://3dvconf.github.io/2027/",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "3DV 2027 Deadline [Supplementary material due Sep 2, 2026. All deadlines are 11:00 am PDT.]",
+        "name": "International Conference on 3D Vision",
+        "deadlineIso": "2026-08-28T11:00:00-07:00",
+        "deadlineText": "2026-08-28 11:00:00",
+        "deadlineZone": "UTC-7",
+        "eventDate": "April 6-9, 2027",
+        "location": "Thessaloniki, Greece",
+        "website": "https://3dvconf.github.io/2027/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "C42",
