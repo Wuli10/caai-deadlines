@@ -11,9 +11,9 @@ window.CAAI_DATA = {
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
     "deadlineSourceBuildDate": "Thu, 27 Aug 2026 07:11:26 +0000",
-    "generatedAt": "2026-08-31T22:54:02.739928+00:00",
+    "generatedAt": "2026-09-01T21:06:15.179575+00:00",
     "matchedConferenceCount": 103,
-    "upcomingMatchedConferenceCount": 21
+    "upcomingMatchedConferenceCount": 20
   },
   "conferences": [
     {
@@ -381,19 +381,17 @@ window.CAAI_DATA = {
       "key": "vr",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "IEEE VR 2027 Deadline",
-          "name": "IEEE Virtual Reality",
-          "deadlineIso": "2026-08-31T23:59:59-12:00",
-          "deadlineText": "2026-08-31 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "February 27 - March 3, 2027",
-          "location": "Melbourne, Australia",
-          "website": "https://ieeevr.org/2027/",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "IEEE VR 2027 Deadline",
+        "name": "IEEE Virtual Reality",
+        "deadlineIso": "2026-08-31T23:59:59-12:00",
+        "deadlineText": "2026-08-31 23:59:59",
+        "deadlineZone": "AoE",
+        "eventDate": "February 27 - March 3, 2027",
+        "location": "Melbourne, Australia",
+        "website": "https://ieeevr.org/2027/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "A16",
