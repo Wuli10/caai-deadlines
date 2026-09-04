@@ -10,10 +10,10 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Thu, 03 Sep 2026 06:45:00 +0000",
-    "generatedAt": "2026-09-03T21:06:27.190056+00:00",
+    "deadlineSourceBuildDate": "Fri, 04 Sep 2026 15:31:08 +0000",
+    "generatedAt": "2026-09-04T20:48:52.426742+00:00",
     "matchedConferenceCount": 103,
-    "upcomingMatchedConferenceCount": 19
+    "upcomingMatchedConferenceCount": 21
   },
   "conferences": [
     {
@@ -453,17 +453,30 @@ window.CAAI_DATA = {
       "key": "cvpr",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "CVPR 2026 Deadline",
-        "name": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
-        "deadlineIso": "2025-11-13T23:59:00-12:00",
-        "deadlineText": "2025-11-13 23:59:00",
-        "deadlineZone": "UTC-12",
-        "eventDate": "June 3-7, 2026",
-        "location": "Denver, Colorado, United States",
-        "website": "https://cvpr.thecvf.com/Conferences/2026",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "CVPR 2027 Abstract Deadline",
+          "name": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+          "deadlineIso": "2026-11-10T23:59:00-12:00",
+          "deadlineText": "2026-11-10 23:59:00",
+          "deadlineZone": "UTC-12",
+          "eventDate": "June 20-24, 2027",
+          "location": "Seattle, WA, United States",
+          "website": "https://cvpr.thecvf.com/Conferences/2027",
+          "source": "ccfddl"
+        },
+        {
+          "title": "CVPR 2027 Deadline",
+          "name": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+          "deadlineIso": "2026-11-16T23:59:00-12:00",
+          "deadlineText": "2026-11-16 23:59:00",
+          "deadlineZone": "UTC-12",
+          "eventDate": "June 20-24, 2027",
+          "location": "Seattle, WA, United States",
+          "website": "https://cvpr.thecvf.com/Conferences/2027",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "A19",
@@ -603,23 +616,23 @@ window.CAAI_DATA = {
         {
           "title": "WWW 2027 Abstract Deadline",
           "name": "International World Wide Web Conferences",
-          "deadlineIso": "2026-10-11T23:59:59-12:00",
-          "deadlineText": "2026-10-11 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "May 10 - 14, 2027",
-          "location": "Dublin, Ireland",
-          "website": "https://acmweb2027.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "WWW 2027 Deadline",
-          "name": "International World Wide Web Conferences",
           "deadlineIso": "2026-10-18T23:59:59-12:00",
           "deadlineText": "2026-10-18 23:59:59",
           "deadlineZone": "AoE",
           "eventDate": "May 10 - 14, 2027",
           "location": "Dublin, Ireland",
-          "website": "https://acmweb2027.org/",
+          "website": "https://www2027.thewebconf.org/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "WWW 2027 Deadline",
+          "name": "International World Wide Web Conferences",
+          "deadlineIso": "2026-10-25T23:59:59-12:00",
+          "deadlineText": "2026-10-25 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "May 10 - 14, 2027",
+          "location": "Dublin, Ireland",
+          "website": "https://www2027.thewebconf.org/",
           "source": "ccfddl"
         }
       ]
@@ -1398,17 +1411,30 @@ window.CAAI_DATA = {
       "key": "aistats",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "AISTATS 2026 Deadline",
-        "name": "International Conference on Artificial Intelligence and Statistics",
-        "deadlineIso": "2025-10-02T23:59:59-12:00",
-        "deadlineText": "2025-10-02 23:59:59",
-        "deadlineZone": "UTC-12",
-        "eventDate": "May 2-5, 2026",
-        "location": "Morocco",
-        "website": "https://virtual.aistats.org/Conferences/2026",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "AISTATS 2027 Abstract Deadline",
+          "name": "International Conference on Artificial Intelligence and Statistics",
+          "deadlineIso": "2026-09-29T23:59:59-12:00",
+          "deadlineText": "2026-09-29 23:59:59",
+          "deadlineZone": "UTC-12",
+          "eventDate": "May 3, 2027",
+          "location": "Montréal, Canada",
+          "website": "https://virtual.aistats.org/Conferences/2027",
+          "source": "ccfddl"
+        },
+        {
+          "title": "AISTATS 2027 Deadline",
+          "name": "International Conference on Artificial Intelligence and Statistics",
+          "deadlineIso": "2026-10-06T23:59:59-12:00",
+          "deadlineText": "2026-10-06 23:59:59",
+          "deadlineZone": "UTC-12",
+          "eventDate": "May 3, 2027",
+          "location": "Montréal, Canada",
+          "website": "https://virtual.aistats.org/Conferences/2027",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "B32",
@@ -1473,17 +1499,6 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "deadlines": [
-        {
-          "title": "ICDT 2027 Abstract Deadline",
-          "name": "International Conference on Database Theory",
-          "deadlineIso": "2026-09-03T23:59:59-12:00",
-          "deadlineText": "2026-09-03 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "April 6-9, 2027",
-          "location": "Lille, France",
-          "website": "https://edbticdt2027.github.io/",
-          "source": "ccfddl"
-        },
         {
           "title": "ICDT 2027 Deadline",
           "name": "International Conference on Database Theory",
