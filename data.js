@@ -10,8 +10,8 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Sun, 06 Sep 2026 08:17:19 +0000",
-    "generatedAt": "2026-09-07T21:34:19.264428+00:00",
+    "deadlineSourceBuildDate": "Tue, 08 Sep 2026 01:33:45 +0000",
+    "generatedAt": "2026-09-08T21:13:51.914913+00:00",
     "matchedConferenceCount": 103,
     "upcomingMatchedConferenceCount": 21
   },
@@ -1451,7 +1451,7 @@ window.CAAI_DATA = {
       "deadlines": [
         {
           "title": "COLING 2027 Deadline [ARR Submission]",
-          "name": "INTERNATIONNAL CONFERENCE ON COMPUTATIONAL LINGUISTICS",
+          "name": "International Conference on Computational Linguistics",
           "deadlineIso": "2026-10-12T23:59:59-12:00",
           "deadlineText": "2026-10-12 23:59:59",
           "deadlineZone": "UTC-12",
