@@ -10,10 +10,10 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Tue, 08 Sep 2026 01:33:45 +0000",
-    "generatedAt": "2026-09-08T21:13:51.914913+00:00",
+    "deadlineSourceBuildDate": "Wed, 09 Sep 2026 05:31:15 +0000",
+    "generatedAt": "2026-09-09T20:58:56.806108+00:00",
     "matchedConferenceCount": 103,
-    "upcomingMatchedConferenceCount": 21
+    "upcomingMatchedConferenceCount": 22
   },
   "conferences": [
     {
@@ -1474,17 +1474,19 @@ window.CAAI_DATA = {
       "key": "dasfaa",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "DASFAA 2026 Deadline",
-        "name": "Database Systems for Advanced Applications",
-        "deadlineIso": "2025-10-27T23:59:59-12:00",
-        "deadlineText": "2025-10-27 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "April 21-24, 2026",
-        "location": "Jeju Island, South Korea",
-        "website": "https://dasfaa2026.github.io/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "DASFAA 2027 Deadline",
+          "name": "Database Systems for Advanced Applications",
+          "deadlineIso": "2026-11-25T23:59:59-12:00",
+          "deadlineText": "2026-11-25 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "May 27-30, 2027",
+          "location": "Shenyang, China",
+          "website": "https://dasfaa2027.github.io/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "B34",
