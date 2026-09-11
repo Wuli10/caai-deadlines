@@ -11,9 +11,9 @@ window.CAAI_DATA = {
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
     "deadlineSourceBuildDate": "Wed, 09 Sep 2026 05:31:15 +0000",
-    "generatedAt": "2026-09-10T20:55:39.705792+00:00",
+    "generatedAt": "2026-09-11T21:01:39.691724+00:00",
     "matchedConferenceCount": 103,
-    "upcomingMatchedConferenceCount": 22
+    "upcomingMatchedConferenceCount": 20
   },
   "conferences": [
     {
@@ -52,19 +52,17 @@ window.CAAI_DATA = {
       "key": "chi",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "CHI 2027 Deadline",
-          "name": "ACM Conference on Human Factors in Computing Systems",
-          "deadlineIso": "2026-09-10T23:59:59-12:00",
-          "deadlineText": "2026-09-10 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "May 10 - 14, 2027",
-          "location": "David L. Lawrence Convention Center, Pittsburgh, USA",
-          "website": "https://chi2027.acm.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "CHI 2027 Deadline",
+        "name": "ACM Conference on Human Factors in Computing Systems",
+        "deadlineIso": "2026-09-10T23:59:59-12:00",
+        "deadlineText": "2026-09-10 23:59:59",
+        "deadlineZone": "AoE",
+        "eventDate": "May 10 - 14, 2027",
+        "location": "David L. Lawrence Convention Center, Pittsburgh, USA",
+        "website": "https://chi2027.acm.org/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "A03",
@@ -1500,19 +1498,17 @@ window.CAAI_DATA = {
       "key": "icdt",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "ICDT 2027 Deadline",
-          "name": "International Conference on Database Theory",
-          "deadlineIso": "2026-09-10T23:59:59-12:00",
-          "deadlineText": "2026-09-10 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "April 6-9, 2027",
-          "location": "Lille, France",
-          "website": "https://edbticdt2027.github.io/",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "ICDT 2027 Deadline",
+        "name": "International Conference on Database Theory",
+        "deadlineIso": "2026-09-10T23:59:59-12:00",
+        "deadlineText": "2026-09-10 23:59:59",
+        "deadlineZone": "AoE",
+        "eventDate": "April 6-9, 2027",
+        "location": "Lille, France",
+        "website": "https://edbticdt2027.github.io/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "B35",
