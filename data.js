@@ -10,10 +10,10 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Wed, 09 Sep 2026 05:31:15 +0000",
-    "generatedAt": "2026-09-11T21:01:39.691724+00:00",
+    "deadlineSourceBuildDate": "Sat, 12 Sep 2026 14:14:10 +0000",
+    "generatedAt": "2026-09-12T20:37:43.904864+00:00",
     "matchedConferenceCount": 103,
-    "upcomingMatchedConferenceCount": 20
+    "upcomingMatchedConferenceCount": 19
   },
   "conferences": [
     {
@@ -677,7 +677,7 @@ window.CAAI_DATA = {
         "deadlineIso": "2026-05-07T11:59:00+00:00",
         "deadlineText": "2026-05-07 11:59:00",
         "deadlineZone": "UTC+0",
-        "eventDate": "December 6, 2026",
+        "eventDate": "December 6-12, 2026",
         "location": "Sydney, Australia",
         "website": "https://neurips.cc/Conferences/2026",
         "source": "ccfddl"
@@ -2643,30 +2643,17 @@ window.CAAI_DATA = {
       "key": "adma",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "ADMA 2026 Deadline [Poster Paper]",
-          "name": "The International Conference on Advanced Data Mining and Applications",
-          "deadlineIso": "2026-09-11T23:59:59-12:00",
-          "deadlineText": "2026-09-11 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "November 13 - 15, 2026",
-          "location": "Hong Kong, China",
-          "website": "https://adma2026.github.io/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "ADMA 2026 Deadline [Encore Paper]",
-          "name": "The International Conference on Advanced Data Mining and Applications",
-          "deadlineIso": "2026-09-11T23:59:59-12:00",
-          "deadlineText": "2026-09-11 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "November 13 - 15, 2026",
-          "location": "Hong Kong, China",
-          "website": "https://adma2026.github.io/",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "ADMA 2026 Deadline [Encore Paper]",
+        "name": "The International Conference on Advanced Data Mining and Applications",
+        "deadlineIso": "2026-09-11T23:59:59-12:00",
+        "deadlineText": "2026-09-11 23:59:59",
+        "deadlineZone": "AoE",
+        "eventDate": "November 13 - 15, 2026",
+        "location": "Hong Kong, China",
+        "website": "https://adma2026.github.io/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "C43",
