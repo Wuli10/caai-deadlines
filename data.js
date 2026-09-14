@@ -10,10 +10,10 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Sat, 12 Sep 2026 14:14:10 +0000",
-    "generatedAt": "2026-09-13T20:54:21.691462+00:00",
-    "matchedConferenceCount": 103,
-    "upcomingMatchedConferenceCount": 19
+    "deadlineSourceBuildDate": "Mon, 14 Sep 2026 14:07:19 +0000",
+    "generatedAt": "2026-09-14T21:53:05.814335+00:00",
+    "matchedConferenceCount": 105,
+    "upcomingMatchedConferenceCount": 22
   },
   "conferences": [
     {
@@ -596,7 +596,53 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/vldb/",
       "key": "vldb",
       "extraKeys": [],
-      "notes": []
+      "notes": [],
+      "deadlines": [
+        {
+          "title": "VLDB 2027 Abstract Deadline",
+          "name": "International Conference on Very Large Data Bases",
+          "deadlineIso": "2026-09-25T17:00:00-07:00",
+          "deadlineText": "2026-09-25 17:00:00",
+          "deadlineZone": "PT",
+          "eventDate": "August 23 - August 27, 2027",
+          "location": "Athens, Greece",
+          "website": "https://www.vldb.org/2027/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "VLDB 2027 Deadline",
+          "name": "International Conference on Very Large Data Bases",
+          "deadlineIso": "2026-10-01T17:00:00-07:00",
+          "deadlineText": "2026-10-01 17:00:00",
+          "deadlineZone": "PT",
+          "eventDate": "August 23 - August 27, 2027",
+          "location": "Athens, Greece",
+          "website": "https://www.vldb.org/2027/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "VLDB 2027 Abstract Deadline",
+          "name": "International Conference on Very Large Data Bases",
+          "deadlineIso": "2026-10-25T17:00:00-07:00",
+          "deadlineText": "2026-10-25 17:00:00",
+          "deadlineZone": "PT",
+          "eventDate": "August 23 - August 27, 2027",
+          "location": "Athens, Greece",
+          "website": "https://www.vldb.org/2027/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "VLDB 2027 Deadline",
+          "name": "International Conference on Very Large Data Bases",
+          "deadlineIso": "2026-11-01T17:00:00-08:00",
+          "deadlineText": "2026-11-01 17:00:00",
+          "deadlineZone": "PT",
+          "eventDate": "August 23 - August 27, 2027",
+          "location": "Athens, Greece",
+          "website": "https://www.vldb.org/2027/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "A24",
@@ -928,17 +974,30 @@ window.CAAI_DATA = {
       "key": "pods",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "PODS 2025 Deadline [SECOND SUBMISSION CYCLE]",
-        "name": "ACM Symposium on Principles of Database Systems",
-        "deadlineIso": "2024-12-09T17:00:00-07:00",
-        "deadlineText": "2024-12-09 17:00:00",
-        "deadlineZone": "UTC-7",
-        "eventDate": "June 22-27, 2025",
-        "location": "Berlin, Germany",
-        "website": "https://2025.sigmod.org/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "PODS 2027 Abstract Deadline [Second Submission Cycle]",
+          "name": "ACM Symposium on Principles of Database Systems",
+          "deadlineIso": "2026-12-03T23:59:59-12:00",
+          "deadlineText": "2026-12-03 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "June 13-19, 2027",
+          "location": "Huntington Beach, California, USA",
+          "website": "https://2027.sigmod.org/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "PODS 2027 Deadline [Second Submission Cycle]",
+          "name": "ACM Symposium on Principles of Database Systems",
+          "deadlineIso": "2026-12-10T23:59:59-12:00",
+          "deadlineText": "2026-12-10 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "June 13-19, 2027",
+          "location": "Huntington Beach, California, USA",
+          "website": "https://2027.sigmod.org/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "B10",
@@ -1073,7 +1132,20 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/dcc/",
       "key": "dcc",
       "extraKeys": [],
-      "notes": []
+      "notes": [],
+      "deadlines": [
+        {
+          "title": "DCC 2027 Deadline",
+          "name": "Data Compression Conference",
+          "deadlineIso": "2026-10-02T23:59:59-07:00",
+          "deadlineText": "2026-10-02 23:59:59",
+          "deadlineZone": "PT",
+          "eventDate": "March 23-26, 2027",
+          "location": "Snowbird, Utah, United States",
+          "website": "https://datacompressionconference.org/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "B16",
