@@ -10,10 +10,10 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Tue, 15 Sep 2026 06:09:59 +0000",
-    "generatedAt": "2026-09-15T21:26:27.424999+00:00",
+    "deadlineSourceBuildDate": "Wed, 16 Sep 2026 14:13:40 +0000",
+    "generatedAt": "2026-09-16T21:22:43.005264+00:00",
     "matchedConferenceCount": 105,
-    "upcomingMatchedConferenceCount": 22
+    "upcomingMatchedConferenceCount": 21
   },
   "conferences": [
     {
@@ -765,19 +765,17 @@ window.CAAI_DATA = {
       "key": "icra",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "ICRA 2027 Deadline",
-          "name": "IEEE International Conference on Robotics and Automation",
-          "deadlineIso": "2026-09-15T23:59:59-07:00",
-          "deadlineText": "2026-09-15 23:59:59",
-          "deadlineZone": "UTC-7",
-          "eventDate": "May 24-28, 2027",
-          "location": "Seoul, Republic of Korea",
-          "website": "https://2027.ieee-icra.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "ICRA 2027 Deadline",
+        "name": "IEEE International Conference on Robotics and Automation",
+        "deadlineIso": "2026-09-15T23:59:59-07:00",
+        "deadlineText": "2026-09-15 23:59:59",
+        "deadlineZone": "UTC-7",
+        "eventDate": "May 24-28, 2027",
+        "location": "Seoul, Republic of Korea",
+        "website": "https://2027.ieee-icra.org/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "B01",
@@ -1337,8 +1335,8 @@ window.CAAI_DATA = {
         {
           "title": "ICASSP 2027 Deadline",
           "name": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
-          "deadlineIso": "2026-09-16T23:59:59-12:00",
-          "deadlineText": "2026-09-16 23:59:59",
+          "deadlineIso": "2026-09-23T23:59:59-12:00",
+          "deadlineText": "2026-09-23 23:59:59",
           "deadlineZone": "UTC-12",
           "eventDate": "May 16-21, 2027",
           "location": "Toronto, Canada",
