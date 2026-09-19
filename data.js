@@ -10,8 +10,8 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Fri, 18 Sep 2026 01:47:12 +0000",
-    "generatedAt": "2026-09-18T20:58:07.589931+00:00",
+    "deadlineSourceBuildDate": "Sat, 19 Sep 2026 09:25:23 +0000",
+    "generatedAt": "2026-09-19T20:46:54.675471+00:00",
     "matchedConferenceCount": 105,
     "upcomingMatchedConferenceCount": 21
   },
@@ -537,17 +537,6 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "deadlines": [
-        {
-          "title": "ICLR 2027 Abstract Deadline",
-          "name": "International Conference on Learning Representations",
-          "deadlineIso": "2026-09-18T23:59:59-12:00",
-          "deadlineText": "2026-09-18 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "April 26-30, 2027",
-          "location": "San Francisco, CA, USA",
-          "website": "https://iclr.cc/Conferences/2027",
-          "source": "ccfddl"
-        },
         {
           "title": "ICLR 2027 Deadline",
           "name": "International Conference on Learning Representations",
