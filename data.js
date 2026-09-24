@@ -10,10 +10,10 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Mon, 21 Sep 2026 09:31:16 +0000",
-    "generatedAt": "2026-09-23T21:33:42.731437+00:00",
+    "deadlineSourceBuildDate": "Thu, 24 Sep 2026 17:20:32 +0000",
+    "generatedAt": "2026-09-24T21:34:39.691535+00:00",
     "matchedConferenceCount": 105,
-    "upcomingMatchedConferenceCount": 21
+    "upcomingMatchedConferenceCount": 26
   },
   "conferences": [
     {
@@ -488,17 +488,30 @@ window.CAAI_DATA = {
       "key": "sigir",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "SIGIR 2026 Deadline",
-        "name": "International Conference on Research on Development in Information Retrieval",
-        "deadlineIso": "2026-01-22T23:59:59-12:00",
-        "deadlineText": "2026-01-22 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "July 20-24, 2026",
-        "location": "Melbourne, Australia",
-        "website": "https://sigir2026.org/en-AU",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "SIGIR 2027 Abstract Deadline",
+          "name": "International Conference on Research on Development in Information Retrieval",
+          "deadlineIso": "2027-01-14T23:59:59-12:00",
+          "deadlineText": "2027-01-14 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "July 18-24, 2027",
+          "location": "San Jose, California, USA",
+          "website": "https://sigir2027.org/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "SIGIR 2027 Deadline",
+          "name": "International Conference on Research on Development in Information Retrieval",
+          "deadlineIso": "2027-01-21T23:59:59-12:00",
+          "deadlineText": "2027-01-21 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "July 18-24, 2027",
+          "location": "San Jose, California, USA",
+          "website": "https://sigir2027.org/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "A20",
@@ -779,12 +792,12 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "lastKnownDeadline": {
-        "title": "Hot Chips 2025 Deadline",
+        "title": "Hot Chips 2026 Deadline [Extended submission deadline]",
         "name": "Hot Chips: A Symposium on High Performance Chips",
-        "deadlineIso": "2025-04-16T23:59:59-12:00",
-        "deadlineText": "2025-04-16 23:59:59",
+        "deadlineIso": "2026-04-08T23:59:59-12:00",
+        "deadlineText": "2026-04-08 23:59:59",
         "deadlineZone": "AoE",
-        "eventDate": "August 24-26, 2025",
+        "eventDate": "August 23-25, 2026",
         "location": "Memorial Auditorium, Stanford, Palo Alto, CA",
         "website": "https://www.hotchips.org/",
         "source": "ccfddl"
@@ -1072,17 +1085,19 @@ window.CAAI_DATA = {
       "key": "interspeech",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "InterSpeech 2026 Deadline",
-        "name": "Conference of the International Speech Communication Association",
-        "deadlineIso": "2026-02-25T23:59:59+00:00",
-        "deadlineText": "2026-02-25 23:59:59",
-        "deadlineZone": "UTC+0",
-        "eventDate": "September 27 - October 1, 2026",
-        "location": "Sydney, Australia",
-        "website": "https://interspeech2026.org/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "InterSpeech 2027 Deadline",
+          "name": "Conference of the International Speech Communication Association",
+          "deadlineIso": "2027-02-09T23:59:59+00:00",
+          "deadlineText": "2027-02-09 23:59:59",
+          "deadlineZone": "UTC+0",
+          "eventDate": "August 29 - September 2, 2027",
+          "location": "São Paulo, Brazil",
+          "website": "https://interspeech2027.org/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "B14",
@@ -1221,14 +1236,14 @@ window.CAAI_DATA = {
         "PDF source link points to ICASSP; DBLP key corrected to ECAI for deadline matching."
       ],
       "lastKnownDeadline": {
-        "title": "ECAI 2025 Deadline",
+        "title": "ECAI 2026 Deadline",
         "name": "European Conference on Artificial Intelligence",
-        "deadlineIso": "2025-05-06T23:59:59-12:00",
-        "deadlineText": "2025-05-06 23:59:59",
+        "deadlineIso": "2026-01-19T23:59:59-12:00",
+        "deadlineText": "2026-01-19 23:59:59",
         "deadlineZone": "UTC-12",
-        "eventDate": "October 25-30, 2025",
-        "location": "Bologna, ITALY",
-        "website": "https://ecai2025.org/deadlines/",
+        "eventDate": "August 15-21, 2026",
+        "location": "Bremen, Germany",
+        "website": "https://2026.ijcai.org/",
         "source": "ccfddl"
       }
     },
@@ -1320,19 +1335,17 @@ window.CAAI_DATA = {
       "key": "icassp",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "ICASSP 2027 Deadline",
-          "name": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
-          "deadlineIso": "2026-09-23T23:59:59-12:00",
-          "deadlineText": "2026-09-23 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "May 16-21, 2027",
-          "location": "Toronto, Canada",
-          "website": "https://2027.ieeeicassp.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "ICASSP 2027 Deadline",
+        "name": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+        "deadlineIso": "2026-09-23T23:59:59-12:00",
+        "deadlineText": "2026-09-23 23:59:59",
+        "deadlineZone": "UTC-12",
+        "eventDate": "May 16-21, 2027",
+        "location": "Toronto, Canada",
+        "website": "https://2027.ieeeicassp.org/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "B25",
@@ -1581,17 +1594,30 @@ window.CAAI_DATA = {
       "key": "icdar",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "ICDAR 2026 Deadline",
-        "name": "International Conference on Document Analysis and Recognition",
-        "deadlineIso": "2026-02-27T23:59:59+00:00",
-        "deadlineText": "2026-02-27 23:59:59",
-        "deadlineZone": "UTC+0",
-        "eventDate": "August 30 - September 4, 2026",
-        "location": "Vienna, Austria",
-        "website": "https://icdar2026.org/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "ICDAR 2027 Abstract Deadline",
+          "name": "International Conference on Document Analysis and Recognition",
+          "deadlineIso": "2027-01-31T23:59:59-12:00",
+          "deadlineText": "2027-01-31 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "August 18 - 22, 2027",
+          "location": "Kuala Lumpur, Malaysia",
+          "website": "https://icdar2027.org/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "ICDAR 2027 Deadline",
+          "name": "International Conference on Document Analysis and Recognition",
+          "deadlineIso": "2027-02-20T23:59:59-12:00",
+          "deadlineText": "2027-02-20 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "August 18 - 22, 2027",
+          "location": "Kuala Lumpur, Malaysia",
+          "website": "https://icdar2027.org/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "B36",
@@ -1936,17 +1962,30 @@ window.CAAI_DATA = {
       "key": "acmdis",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "DIS 2026 Deadline",
-        "name": "ACM Conference on Designing Interactive Systems",
-        "deadlineIso": "2026-01-19T23:59:59-12:00",
-        "deadlineText": "2026-01-19 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "June 13 - 17, 2026",
-        "location": "Singapore",
-        "website": "https://dis.acm.org/2026/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "DIS 2027 Abstract Deadline",
+          "name": "ACM Conference on Designing Interactive Systems",
+          "deadlineIso": "2027-01-11T23:59:59-12:00",
+          "deadlineText": "2027-01-11 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "June 28 - July 2, 2027",
+          "location": "Stockholm, Sweden",
+          "website": "https://dis.acm.org/2027/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "DIS 2027 Deadline",
+          "name": "ACM Conference on Designing Interactive Systems",
+          "deadlineIso": "2027-01-18T23:59:59-12:00",
+          "deadlineText": "2027-01-18 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "June 28 - July 2, 2027",
+          "location": "Stockholm, Sweden",
+          "website": "https://dis.acm.org/2027/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "C05",
@@ -2232,17 +2271,30 @@ window.CAAI_DATA = {
       "key": "cgi",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "CGI 2026 Deadline [Second Track: Call for papers with final publication in LNCS Book published by Springer or in The Visual Computer journal or Computer Animation and Virtual Worlds Journal]",
-        "name": "Computer Graphics International",
-        "deadlineIso": "2026-04-20T23:59:00+00:00",
-        "deadlineText": "2026-04-20 23:59:00",
-        "deadlineZone": "UTC",
-        "eventDate": "July 06-10, 2026",
-        "location": "London, UK",
-        "website": "https://www.cgs-network.org/cgi26/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "CGI 2027 Deadline [First Track: Call for papers with final publication in The Visual Computer Journal]",
+          "name": "Computer Graphics International",
+          "deadlineIso": "2027-02-28T23:59:59+00:00",
+          "deadlineText": "2027-02-28 23:59:59",
+          "deadlineZone": "UTC",
+          "eventDate": "July 5-9, 2027",
+          "location": "Cairns, Australia",
+          "website": "https://cgs-network.org/cgi27/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "CGI 2027 Deadline [Second Track: Call for papers with final publication in LNCS Book published by Springer]",
+          "name": "Computer Graphics International",
+          "deadlineIso": "2027-04-20T23:59:59+00:00",
+          "deadlineText": "2027-04-20 23:59:59",
+          "deadlineZone": "UTC",
+          "eventDate": "July 5-9, 2027",
+          "location": "Cairns, Australia",
+          "website": "https://cgs-network.org/cgi27/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "C19",
@@ -2566,14 +2618,14 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "lastKnownDeadline": {
-        "title": "UIC 2025 Deadline [Conference Papers]",
+        "title": "UIC 2026 Deadline",
         "name": "IEEE International Conference on Ubiquitous Intelligence and Computing",
-        "deadlineIso": "2025-05-01T23:59:59-04:00",
-        "deadlineText": "2025-05-01 23:59:59",
-        "deadlineZone": "UTC-4",
-        "eventDate": "Aug 18 - 22, 2025",
-        "location": "Calgary, Alberta, Canada",
-        "website": "https://www.ieee-smart-world.org/2025/",
+        "deadlineIso": "2026-05-31T23:59:59+02:00",
+        "deadlineText": "2026-05-31 23:59:59",
+        "deadlineZone": "UTC+2",
+        "eventDate": "Sept 7 - 11, 2026",
+        "location": "Rende, Italy",
+        "website": "https://swc-ieee-2026.github.io/uic/",
         "source": "ccfddl"
       }
     },
@@ -3219,17 +3271,19 @@ window.CAAI_DATA = {
       "key": "pakdd",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "PAKDD 2026 Deadline",
-        "name": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
-        "deadlineIso": "2025-11-15T23:59:59-08:00",
-        "deadlineText": "2025-11-15 23:59:59",
-        "deadlineZone": "UTC-8",
-        "eventDate": "June 9-12, 2026",
-        "location": "Hong Kong, China",
-        "website": "https://www.pakdd2026.org/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "PAKDD 2027 Deadline",
+          "name": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+          "deadlineIso": "2026-11-20T23:59:59-12:00",
+          "deadlineText": "2026-11-20 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "June 29-July 2, 2027",
+          "location": "Wellington, New Zealand",
+          "website": "https://www.pakdd2027.org/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "C75",
@@ -3244,14 +3298,14 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "lastKnownDeadline": {
-        "title": "SMI 2025 Deadline",
+        "title": "SMI 2026 Deadline",
         "name": "Shape Modeling International",
-        "deadlineIso": "2025-04-22T23:59:59-12:00",
-        "deadlineText": "2025-04-22 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "October 29 - November 2, 2025",
-        "location": "Hangzhou, Zhejiang, P.R. China",
-        "website": "https://smiconf.github.io/2025/",
+        "deadlineIso": "2026-03-30T23:59:59+00:00",
+        "deadlineText": "2026-03-30 23:59:59",
+        "deadlineZone": "UTC",
+        "eventDate": "July 6-9, 2026",
+        "location": "Istanbul, Turkey",
+        "website": "https://smiconf.github.io/2026/",
         "source": "ccfddl"
       }
     },
