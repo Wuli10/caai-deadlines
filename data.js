@@ -10,10 +10,10 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Thu, 24 Sep 2026 17:20:32 +0000",
-    "generatedAt": "2026-09-24T21:34:39.691535+00:00",
-    "matchedConferenceCount": 105,
-    "upcomingMatchedConferenceCount": 26
+    "deadlineSourceBuildDate": "Fri, 25 Sep 2026 13:07:20 +0000",
+    "generatedAt": "2026-09-25T21:39:01.152015+00:00",
+    "matchedConferenceCount": 108,
+    "upcomingMatchedConferenceCount": 32
   },
   "conferences": [
     {
@@ -357,9 +357,9 @@ window.CAAI_DATA = {
         {
           "title": "ICDE 2027 Deadline [second round]",
           "name": "IEEE International Conference on Data Engineering",
-          "deadlineIso": "2026-11-11T17:00:00-07:00",
+          "deadlineIso": "2026-11-11T17:00:00-08:00",
           "deadlineText": "2026-11-11 17:00:00",
-          "deadlineZone": "UTC-7",
+          "deadlineZone": "PT",
           "eventDate": "May 17-21, 2027",
           "location": "Copenhagen, Denmark",
           "website": "https://icde2027.github.io/",
@@ -581,7 +581,7 @@ window.CAAI_DATA = {
         "deadlineIso": "2026-01-29T11:59:59+00:00",
         "deadlineText": "2026-01-29 11:59:59",
         "deadlineZone": "UTC+0",
-        "eventDate": "July 6-12, 2026",
+        "eventDate": "July 6-11, 2026",
         "location": "Seoul, Korea",
         "website": "https://icml.cc/Conferences/2026",
         "source": "ccfddl"
@@ -768,11 +768,11 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "lastKnownDeadline": {
-        "title": "ICRA 2027 Deadline",
+        "title": "ICRA 2027 Deadline [Extended submission deadline]",
         "name": "IEEE International Conference on Robotics and Automation",
-        "deadlineIso": "2026-09-15T23:59:59-07:00",
-        "deadlineText": "2026-09-15 23:59:59",
-        "deadlineZone": "UTC-7",
+        "deadlineIso": "2026-09-16T23:59:59-08:00",
+        "deadlineText": "2026-09-16 23:59:59",
+        "deadlineZone": "UTC-8",
         "eventDate": "May 24-28, 2027",
         "location": "Seoul, Republic of Korea",
         "website": "https://2027.ieee-icra.org/",
@@ -1162,10 +1162,10 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "lastKnownDeadline": {
-        "title": "EuroVis 2026 Abstract Deadline",
+        "title": "EuroVis 2026 Deadline",
         "name": "Eurographics Conference on Visualization",
-        "deadlineIso": "2025-11-26T23:59:59-12:00",
-        "deadlineText": "2025-11-26 23:59:59",
+        "deadlineIso": "2025-12-03T23:59:59-12:00",
+        "deadlineText": "2025-12-03 23:59:59",
         "deadlineZone": "AoE",
         "eventDate": "June 8-12, 2026",
         "location": "Nottingham, United Kingdom",
@@ -1235,17 +1235,19 @@ window.CAAI_DATA = {
       "notes": [
         "PDF source link points to ICASSP; DBLP key corrected to ECAI for deadline matching."
       ],
-      "lastKnownDeadline": {
-        "title": "ECAI 2026 Deadline",
-        "name": "European Conference on Artificial Intelligence",
-        "deadlineIso": "2026-01-19T23:59:59-12:00",
-        "deadlineText": "2026-01-19 23:59:59",
-        "deadlineZone": "UTC-12",
-        "eventDate": "August 15-21, 2026",
-        "location": "Bremen, Germany",
-        "website": "https://2026.ijcai.org/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "ECAI 2027 Deadline",
+          "name": "European Conference on Artificial Intelligence",
+          "deadlineIso": "2027-04-14T23:59:59-12:00",
+          "deadlineText": "2027-04-14 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "October 2-7, 2027",
+          "location": "Athens, Greece",
+          "website": "https://ecai2027.org/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "B20",
@@ -1321,7 +1323,20 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/haptics/",
       "key": "haptics",
       "extraKeys": [],
-      "notes": []
+      "notes": [],
+      "deadlines": [
+        {
+          "title": "WHC 2027 Deadline",
+          "name": "IEEE World Haptics Conference",
+          "deadlineIso": "2027-01-29T23:59:59-12:00",
+          "deadlineText": "2027-01-29 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "July 12-15, 2027",
+          "location": "Boston, Massachusetts, USA",
+          "website": "https://2027.worldhaptics.org/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "B24",
@@ -1439,7 +1454,7 @@ window.CAAI_DATA = {
         "deadlineIso": "2026-08-28T23:59:59-12:00",
         "deadlineText": "2026-08-28 23:59:59",
         "deadlineZone": "AoE",
-        "eventDate": "Jan 5 - 9, 2027",
+        "eventDate": "Jan 4 - 8, 2027",
         "location": "Disney Springs, Buena Vista, FL, USA",
         "website": "https://wacv.thecvf.com/",
         "source": "ccfddl"
@@ -1488,7 +1503,7 @@ window.CAAI_DATA = {
           "deadlineIso": "2026-09-29T23:59:59-12:00",
           "deadlineText": "2026-09-29 23:59:59",
           "deadlineZone": "UTC-12",
-          "eventDate": "May 3, 2027",
+          "eventDate": "May 3-6, 2027",
           "location": "Montréal, Canada",
           "website": "https://virtual.aistats.org/Conferences/2027",
           "source": "ccfddl"
@@ -1499,7 +1514,7 @@ window.CAAI_DATA = {
           "deadlineIso": "2026-10-06T23:59:59-12:00",
           "deadlineText": "2026-10-06 23:59:59",
           "deadlineZone": "UTC-12",
-          "eventDate": "May 3, 2027",
+          "eventDate": "May 3-6, 2027",
           "location": "Montréal, Canada",
           "website": "https://virtual.aistats.org/Conferences/2027",
           "source": "ccfddl"
@@ -1660,8 +1675,8 @@ window.CAAI_DATA = {
       "lastKnownDeadline": {
         "title": "ICPR 2026 Deadline",
         "name": "International Conference on Pattern Recognition",
-        "deadlineIso": "2025-12-20T23:59:59-12:00",
-        "deadlineText": "2025-12-20 23:59:59",
+        "deadlineIso": "2026-01-10T23:59:59-12:00",
+        "deadlineText": "2026-01-10 23:59:59",
         "deadlineZone": "AoE",
         "eventDate": "August 17-21, 2026",
         "location": "Lyon, France",
@@ -1841,14 +1856,14 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "lastKnownDeadline": {
-        "title": "SPM 2025 Deadline",
+        "title": "SPM 2026 Deadline",
         "name": "Symposium on Solid and Physical Modeling",
-        "deadlineIso": "2025-03-15T23:59:59-12:00",
-        "deadlineText": "2025-03-15 23:59:59",
+        "deadlineIso": "2026-02-15T23:59:59-12:00",
+        "deadlineText": "2026-02-15 23:59:59",
         "deadlineZone": "AoE",
-        "eventDate": "October 29 - November 2, 2025",
-        "location": "Hangzhou, Zhejiang, P.R. China",
-        "website": "https://spmconf2025.github.io/SPM2025/",
+        "eventDate": "July 6-9, 2026",
+        "location": "Istanbul, Türkiye",
+        "website": "https://spmconf2026.github.io/",
         "source": "ccfddl"
       }
     },
@@ -1877,17 +1892,19 @@ window.CAAI_DATA = {
       "key": "icwsm",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "ICWSM 2026 Deadline [3rd Full-paper Deadline]",
-        "name": "The International AAAI Conference on Web and Social Media",
-        "deadlineIso": "2026-01-15T23:59:59-12:00",
-        "deadlineText": "2026-01-15 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "May 27-29, 2026",
-        "location": "Los Angeles, CA, USA",
-        "website": "https://www.icwsm.org/2026/index.html",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "ICWSM 2027 Deadline [3rd Full-paper Deadline]",
+          "name": "The International AAAI Conference on Web and Social Media",
+          "deadlineIso": "2027-01-15T23:59:59-12:00",
+          "deadlineText": "2027-01-15 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "TBD",
+          "location": "Edinburgh, Scotland",
+          "website": "https://www.icwsm.org/2027/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "C01",
@@ -1915,11 +1932,11 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "lastKnownDeadline": {
-        "title": "ICMI 2026 Deadline",
+        "title": "ICMI 2026 Deadline [Paper deadline extended to Apr 23, 23:59 AoE; normalized to UTC-7]",
         "name": "ACM International Conference on Multimodal Interaction",
-        "deadlineIso": "2026-04-20T23:59:59+07:00",
-        "deadlineText": "2026-04-20 23:59:59",
-        "deadlineZone": "UTC+7",
+        "deadlineIso": "2026-04-24T04:59:59-07:00",
+        "deadlineText": "2026-04-24 04:59:59",
+        "deadlineZone": "UTC-7",
         "eventDate": "Oct 5 - 9, 2026",
         "location": "Napoli, Italy",
         "website": "https://icmi.acm.org/2026/",
@@ -2091,9 +2108,9 @@ window.CAAI_DATA = {
       "lastKnownDeadline": {
         "title": "ACCV 2026 Deadline",
         "name": "Asian Conference on Computer Vision",
-        "deadlineIso": "2026-07-05T23:59:59-12:00",
+        "deadlineIso": "2026-07-05T23:59:59+00:00",
         "deadlineText": "2026-07-05 23:59:59",
-        "deadlineZone": "UTC-12",
+        "deadlineZone": "UTC+0",
         "eventDate": "December 14-18, 2026",
         "location": "Osaka, Japan",
         "website": "https://accv2026.org/",
@@ -2358,21 +2375,10 @@ window.CAAI_DATA = {
       "notes": [],
       "deadlines": [
         {
-          "title": "ECIR 2027 Abstract Deadline",
-          "name": "European Conference on Information Retrieval",
-          "deadlineIso": "2026-09-25T23:59:59+00:00",
-          "deadlineText": "2026-09-25 23:59:59",
-          "deadlineZone": "UTC+0",
-          "eventDate": "March 21-25, 2027",
-          "location": "Southampton, UK",
-          "website": "https://ecir2027.co.uk/",
-          "source": "ccfddl"
-        },
-        {
           "title": "ECIR 2027 Deadline",
           "name": "European Conference on Information Retrieval",
-          "deadlineIso": "2026-10-02T23:59:59+00:00",
-          "deadlineText": "2026-10-02 23:59:59",
+          "deadlineIso": "2026-10-05T23:59:59+00:00",
+          "deadlineText": "2026-10-05 23:59:59",
           "deadlineZone": "UTC+0",
           "eventDate": "March 21-25, 2027",
           "location": "Southampton, UK",
@@ -2430,17 +2436,30 @@ window.CAAI_DATA = {
       "key": "gmp",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "GMP 2026 Deadline",
-        "name": "International Conference on Geometric Modeling and Processing",
-        "deadlineIso": "2025-12-18T23:59:59+00:00",
-        "deadlineText": "2025-12-18 23:59:59",
-        "deadlineZone": "UTC",
-        "eventDate": "May 27-29, 2026",
-        "location": "Pilsen, Czech Republic",
-        "website": "https://gmp2026.kma.zcu.cz/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "GMP 2027 Abstract Deadline",
+          "name": "International Conference on Geometric Modeling and Processing",
+          "deadlineIso": "2026-12-14T23:59:59+00:00",
+          "deadlineText": "2026-12-14 23:59:59",
+          "deadlineZone": "UTC",
+          "eventDate": "June 21-25, 2027",
+          "location": "Singapore",
+          "website": "https://gmp-conference-2027.github.io/gmp2027/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "GMP 2027 Deadline",
+          "name": "International Conference on Geometric Modeling and Processing",
+          "deadlineIso": "2026-12-21T23:59:59+00:00",
+          "deadlineText": "2026-12-21 23:59:59",
+          "deadlineZone": "UTC",
+          "eventDate": "June 21-25, 2027",
+          "location": "Singapore",
+          "website": "https://gmp-conference-2027.github.io/gmp2027/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "C25",
@@ -2679,7 +2698,20 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/haptics/",
       "key": "haptics",
       "extraKeys": [],
-      "notes": []
+      "notes": [],
+      "deadlines": [
+        {
+          "title": "WHC 2027 Deadline",
+          "name": "IEEE World Haptics Conference",
+          "deadlineIso": "2027-01-29T23:59:59-12:00",
+          "deadlineText": "2027-01-29 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "July 12-15, 2027",
+          "location": "Boston, Massachusetts, USA",
+          "website": "https://2027.worldhaptics.org/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "C39",
@@ -2694,14 +2726,14 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "lastKnownDeadline": {
-        "title": "ASSETS 2025 Deadline",
+        "title": "ASSETS 2026 Deadline",
         "name": "ACM SIGACCESS Conference on Computers and Accessibility",
-        "deadlineIso": "2025-04-16T23:59:59-12:00",
-        "deadlineText": "2025-04-16 23:59:59",
+        "deadlineIso": "2026-04-22T23:59:59-12:00",
+        "deadlineText": "2026-04-22 23:59:59",
         "deadlineZone": "AoE",
-        "eventDate": "Oct 26 - 29, 2025",
-        "location": "Denver, Colorado",
-        "website": "https://assets25.sigaccess.org/",
+        "eventDate": "October 25-28, 2026",
+        "location": "Porto, Portugal",
+        "website": "https://assets26.sigaccess.org/",
         "source": "ccfddl"
       }
     },
@@ -2731,11 +2763,11 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "lastKnownDeadline": {
-        "title": "3DV 2027 Deadline [Supplementary material due Sep 2, 2026. All deadlines are 11:00 am PDT.]",
+        "title": "3DV 2027 Deadline [Abstract registration and paper submission are both due Aug 28; supplementary material is due Sep 2.]",
         "name": "International Conference on 3D Vision",
-        "deadlineIso": "2026-08-28T11:00:00-07:00",
-        "deadlineText": "2026-08-28 11:00:00",
-        "deadlineZone": "UTC-7",
+        "deadlineIso": "2026-08-28T23:59:59-12:00",
+        "deadlineText": "2026-08-28 23:59:59",
+        "deadlineZone": "AoE",
         "eventDate": "April 6-9, 2027",
         "location": "Thessaloniki, Greece",
         "website": "https://3dvconf.github.io/2027/",
@@ -2816,14 +2848,14 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "lastKnownDeadline": {
-        "title": "CASA 2025 Deadline",
+        "title": "CASA 2026 Deadline",
         "name": "International Conference on Computer Animation and Social Agents",
-        "deadlineIso": "2025-03-08T23:59:59-12:00",
-        "deadlineText": "2025-03-08 23:59:59",
+        "deadlineIso": "2026-02-10T23:59:59-12:00",
+        "deadlineText": "2026-02-10 23:59:59",
         "deadlineZone": "AoE",
-        "eventDate": "June 2-5, 2025",
-        "location": "Strasbourg, France",
-        "website": "https://casa2025.sciencesconf.org/",
+        "eventDate": "June 1-3, 2026",
+        "location": "Geneva, Switzerland",
+        "website": "https://cgs-network.org/CASAXR26/",
         "source": "ccfddl"
       }
     },
@@ -2929,7 +2961,31 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/interact/",
       "key": "interact",
       "extraKeys": [],
-      "notes": []
+      "notes": [],
+      "deadlines": [
+        {
+          "title": "INTERACT 2027 Abstract Deadline",
+          "name": "IFIP TC13 International Conference on Human-Computer Interaction",
+          "deadlineIso": "2027-01-25T23:59:59-12:00",
+          "deadlineText": "2027-01-25 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "August 23-27, 2027",
+          "location": "Tallinn, Estonia",
+          "website": "https://interact2027.org/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "INTERACT 2027 Deadline",
+          "name": "IFIP TC13 International Conference on Human-Computer Interaction",
+          "deadlineIso": "2027-02-01T23:59:59-12:00",
+          "deadlineText": "2027-02-01 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "August 23-27, 2027",
+          "location": "Tallinn, Estonia",
+          "website": "https://interact2027.org/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "C54",
