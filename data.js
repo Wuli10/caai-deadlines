@@ -10,8 +10,8 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Sat, 26 Sep 2026 20:37:08 +0000",
-    "generatedAt": "2026-09-26T21:15:38.298231+00:00",
+    "deadlineSourceBuildDate": "Sun, 27 Sep 2026 13:27:02 +0000",
+    "generatedAt": "2026-09-27T21:24:37.479100+00:00",
     "matchedConferenceCount": 108,
     "upcomingMatchedConferenceCount": 33
   },
@@ -284,8 +284,8 @@ window.CAAI_DATA = {
       "lastKnownDeadline": {
         "title": "COLT 2026 Deadline",
         "name": "Annual Conference on Learning Theory",
-        "deadlineIso": "2026-02-04T16:59:59-12:00",
-        "deadlineText": "2026-02-04 16:59:59",
+        "deadlineIso": "2026-02-04T23:59:59-12:00",
+        "deadlineText": "2026-02-04 23:59:59",
         "deadlineZone": "AoE",
         "eventDate": "June 29 - July 3, 2026",
         "location": "San Diego, California",
