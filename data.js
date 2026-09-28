@@ -10,8 +10,8 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Sun, 27 Sep 2026 13:27:02 +0000",
-    "generatedAt": "2026-09-27T21:24:37.479100+00:00",
+    "deadlineSourceBuildDate": "Mon, 28 Sep 2026 13:06:50 +0000",
+    "generatedAt": "2026-09-28T23:20:14.913963+00:00",
     "matchedConferenceCount": 108,
     "upcomingMatchedConferenceCount": 33
   },
@@ -162,7 +162,7 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "lastKnownDeadline": {
-        "title": "ACM SIGGRAPH 2026 Deadline",
+        "title": "ACM SIGGRAPH 2026 Deadline [Regular conference papers; submission form registration and initial full paper]",
         "name": "ACM SIGGRAPH Annual Conference",
         "deadlineIso": "2026-01-22T22:00:00+00:00",
         "deadlineText": "2026-01-22 22:00:00",
@@ -404,7 +404,7 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "lastKnownDeadline": {
-        "title": "IEEE VIS 2026 Deadline",
+        "title": "IEEE VIS 2026 Deadline [Regular full papers; mandatory abstract and initial submission]",
         "name": "IEEE Visualization Conference",
         "deadlineIso": "2026-03-31T23:59:59-12:00",
         "deadlineText": "2026-03-31 23:59:59",
@@ -964,9 +964,9 @@ window.CAAI_DATA = {
       "lastKnownDeadline": {
         "title": "SCA 2026 Deadline [Submission deadline (papers)]",
         "name": "ACM SIGGRAPH/Eurographics Symposium on Computer Animation",
-        "deadlineIso": "2026-04-17T23:59:59-12:00",
-        "deadlineText": "2026-04-17 23:59:59",
-        "deadlineZone": "AoE",
+        "deadlineIso": "2026-04-17T23:59:00+00:00",
+        "deadlineText": "2026-04-17 23:59:00",
+        "deadlineZone": "UTC+0",
         "eventDate": "July 8-10, 2026",
         "location": "Barcelona, Spain",
         "website": "https://computeranimation.org/",
