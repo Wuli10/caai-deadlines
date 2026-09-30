@@ -10,10 +10,10 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Tue, 29 Sep 2026 16:20:40 +0000",
-    "generatedAt": "2026-09-29T22:21:05.563368+00:00",
+    "deadlineSourceBuildDate": "Wed, 30 Sep 2026 13:41:54 +0000",
+    "generatedAt": "2026-09-30T22:21:02.084783+00:00",
     "matchedConferenceCount": 108,
-    "upcomingMatchedConferenceCount": 33
+    "upcomingMatchedConferenceCount": 32
   },
   "conferences": [
     {
@@ -186,10 +186,10 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "lastKnownDeadline": {
-        "title": "ISCA 2026 Deadline [full paper deadline]",
+        "title": "ISCA 2026 Deadline",
         "name": "International Symposium on Computer Architecture",
-        "deadlineIso": "2025-11-17T23:59:59-12:00",
-        "deadlineText": "2025-11-17 23:59:59",
+        "deadlineIso": "2025-11-17T23:59:00-12:00",
+        "deadlineText": "2025-11-17 23:59:00",
         "deadlineZone": "AoE",
         "eventDate": "June 27-July 1, 2026",
         "location": "Raleigh, USA",
@@ -1498,17 +1498,6 @@ window.CAAI_DATA = {
       "notes": [],
       "deadlines": [
         {
-          "title": "AISTATS 2027 Abstract Deadline",
-          "name": "International Conference on Artificial Intelligence and Statistics",
-          "deadlineIso": "2026-09-29T23:59:59-12:00",
-          "deadlineText": "2026-09-29 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "May 3-6, 2027",
-          "location": "Montréal, Canada",
-          "website": "https://virtual.aistats.org/Conferences/2027",
-          "source": "ccfddl"
-        },
-        {
           "title": "AISTATS 2027 Deadline",
           "name": "International Conference on Artificial Intelligence and Statistics",
           "deadlineIso": "2026-10-06T23:59:59-12:00",
@@ -1570,19 +1559,17 @@ window.CAAI_DATA = {
       "key": "dasfaa",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "DASFAA 2027 Deadline",
-          "name": "Database Systems for Advanced Applications",
-          "deadlineIso": "2026-11-25T23:59:59-12:00",
-          "deadlineText": "2026-11-25 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "May 27-30, 2027",
-          "location": "Shenyang, China",
-          "website": "https://dasfaa2027.github.io/",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "DASFAA 2026 Deadline",
+        "name": "Database Systems for Advanced Applications",
+        "deadlineIso": "2025-10-27T23:59:59-12:00",
+        "deadlineText": "2025-10-27 23:59:59",
+        "deadlineZone": "AoE",
+        "eventDate": "April 21-24, 2026",
+        "location": "Jeju Island, South Korea",
+        "website": "https://dasfaa2026.github.io/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "B34",
@@ -3024,11 +3011,11 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "lastKnownDeadline": {
-        "title": "KSEM 2026 Deadline",
+        "title": "KSEM 2026 Deadline [Regular papers; cutoff clock and timezone unpublished. 23:59:00 uses the repository default where the source gives no clear cutoff clock. AoE uses the repository default because the source gives no timezone.]",
         "name": "International Conference on Knowledge Science, Engineering and Management",
-        "deadlineIso": "2026-01-15T23:59:59+00:00",
-        "deadlineText": "2026-01-15 23:59:59",
-        "deadlineZone": "UTC+0",
+        "deadlineIso": "2026-02-28T23:59:00-12:00",
+        "deadlineText": "2026-02-28 23:59:00",
+        "deadlineZone": "AoE",
         "eventDate": "July 17-19, 2026",
         "location": "Beijing, China",
         "website": "https://ksem2026.rosc.org.cn/",
