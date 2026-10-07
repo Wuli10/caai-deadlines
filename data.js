@@ -10,10 +10,10 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Tue, 06 Oct 2026 08:41:24 +0000",
-    "generatedAt": "2026-10-06T22:40:57.928717+00:00",
+    "deadlineSourceBuildDate": "Wed, 07 Oct 2026 12:04:49 +0000",
+    "generatedAt": "2026-10-07T23:09:35.661846+00:00",
     "matchedConferenceCount": 110,
-    "upcomingMatchedConferenceCount": 50
+    "upcomingMatchedConferenceCount": 49
   },
   "conferences": [
     {
@@ -1292,19 +1292,17 @@ window.CAAI_DATA = {
       "key": "cidr",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "CIDR 2027 Final Decisions",
-          "name": "International Conference on Innovative Data Systems Research",
-          "deadlineIso": "2026-10-06T23:59:59-07:00",
-          "deadlineText": "2026-10-06 23:59:59",
-          "deadlineZone": "UTC-7",
-          "eventDate": "January 24-27, 2027",
-          "location": "Amsterdam, The Netherlands",
-          "website": "https://www.cidrdb.org/cidr2027/",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "CIDR 2027 Final Decisions",
+        "name": "International Conference on Innovative Data Systems Research",
+        "deadlineIso": "2026-10-06T23:59:59-07:00",
+        "deadlineText": "2026-10-06 23:59:59",
+        "deadlineZone": "UTC-7",
+        "eventDate": "January 24-27, 2027",
+        "location": "Amsterdam, The Netherlands",
+        "website": "https://www.cidrdb.org/cidr2027/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "B15",
@@ -1730,17 +1728,6 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "deadlines": [
-        {
-          "title": "AISTATS 2027 Deadline",
-          "name": "International Conference on Artificial Intelligence and Statistics",
-          "deadlineIso": "2026-10-06T23:59:59-12:00",
-          "deadlineText": "2026-10-06 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "May 3-6, 2027",
-          "location": "Montréal, Canada",
-          "website": "https://virtual.aistats.org/Conferences/2027",
-          "source": "ccfddl"
-        },
         {
           "title": "AISTATS 2027 Rebuttal Submission",
           "name": "International Conference on Artificial Intelligence and Statistics",
