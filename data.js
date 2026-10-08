@@ -11,7 +11,7 @@ window.CAAI_DATA = {
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
     "deadlineSourceBuildDate": "Wed, 07 Oct 2026 12:04:49 +0000",
-    "generatedAt": "2026-10-07T23:09:35.661846+00:00",
+    "generatedAt": "2026-10-08T23:25:01.191088+00:00",
     "matchedConferenceCount": 110,
     "upcomingMatchedConferenceCount": 49
   },
@@ -1944,17 +1944,6 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "deadlines": [
-        {
-          "title": "EDBT 2027 Deadline",
-          "name": "International Conference on Extending Database Technology",
-          "deadlineIso": "2026-10-07T23:59:59-12:00",
-          "deadlineText": "2026-10-07 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "April 6-9, 2027",
-          "location": "Lille, France",
-          "website": "https://edbticdt2027.github.io/",
-          "source": "ccfddl"
-        },
         {
           "title": "EDBT 2027 Final Decisions",
           "name": "International Conference on Extending Database Technology",
