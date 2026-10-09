@@ -10,10 +10,10 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Wed, 07 Oct 2026 12:04:49 +0000",
-    "generatedAt": "2026-10-08T23:25:01.191088+00:00",
+    "deadlineSourceBuildDate": "Fri, 09 Oct 2026 09:16:43 +0000",
+    "generatedAt": "2026-10-09T22:43:20.466043+00:00",
     "matchedConferenceCount": 110,
-    "upcomingMatchedConferenceCount": 49
+    "upcomingMatchedConferenceCount": 51
   },
   "conferences": [
     {
@@ -1823,17 +1823,30 @@ window.CAAI_DATA = {
       "key": "dasfaa",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "DASFAA 2026 Deadline",
-        "name": "Database Systems for Advanced Applications",
-        "deadlineIso": "2025-10-27T23:59:59-12:00",
-        "deadlineText": "2025-10-27 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "April 28-30, 2026",
-        "location": "Jeju Island, South Korea",
-        "website": "https://dasfaa2026.github.io/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "DASFAA 2027 Deadline [Research papers]",
+          "name": "Database Systems for Advanced Applications",
+          "deadlineIso": "2026-11-25T23:59:00-12:00",
+          "deadlineText": "2026-11-25 23:59:00",
+          "deadlineZone": "AoE",
+          "eventDate": "May 27-30, 2027",
+          "location": "Shenyang, China",
+          "website": "https://dasfaa2027.github.io/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "DASFAA 2027 Final Decisions [Research papers]",
+          "name": "Database Systems for Advanced Applications",
+          "deadlineIso": "2027-01-25T23:59:00-12:00",
+          "deadlineText": "2027-01-25 23:59:00",
+          "deadlineZone": "AoE",
+          "eventDate": "May 27-30, 2027",
+          "location": "Shenyang, China",
+          "website": "https://dasfaa2027.github.io/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "B34",
@@ -1969,17 +1982,41 @@ window.CAAI_DATA = {
       "key": "icpr",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "ICPR 2026 Deadline",
-        "name": "International Conference on Pattern Recognition",
-        "deadlineIso": "2026-01-10T23:59:59-12:00",
-        "deadlineText": "2026-01-10 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "August 17-20, 2026",
-        "location": "Lyon, France",
-        "website": "https://icpr2026.org/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "ICPR 2027 Abstract Deadline [All dates tentative; March 1 is paper registration; author rebuttal April 23 (provisional, cutoff unspecified)]",
+          "name": "International Conference on Pattern Recognition",
+          "deadlineIso": "2027-03-01T23:59:59-12:00",
+          "deadlineText": "2027-03-01 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "October 4-6 and 14-15, 2027",
+          "location": "Online",
+          "website": "https://www.icpr2027.com/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "ICPR 2027 Deadline [All dates tentative; March 1 is paper registration; author rebuttal April 23 (provisional, cutoff unspecified)]",
+          "name": "International Conference on Pattern Recognition",
+          "deadlineIso": "2027-03-08T23:59:59-12:00",
+          "deadlineText": "2027-03-08 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "October 4-6 and 14-15, 2027",
+          "location": "Online",
+          "website": "https://www.icpr2027.com/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "ICPR 2027 Final Decisions [All dates tentative; March 1 is paper registration; author rebuttal April 23 (provisional, cutoff unspecified)]",
+          "name": "International Conference on Pattern Recognition",
+          "deadlineIso": "2027-05-31T23:59:59-12:00",
+          "deadlineText": "2027-05-31 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "October 4-6 and 14-15, 2027",
+          "location": "Online",
+          "website": "https://www.icpr2027.com/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "B38",
