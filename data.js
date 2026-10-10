@@ -10,10 +10,10 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Fri, 09 Oct 2026 09:16:43 +0000",
-    "generatedAt": "2026-10-09T22:43:20.466043+00:00",
+    "deadlineSourceBuildDate": "Sat, 10 Oct 2026 11:09:06 +0000",
+    "generatedAt": "2026-10-10T21:49:53.439754+00:00",
     "matchedConferenceCount": 110,
-    "upcomingMatchedConferenceCount": 51
+    "upcomingMatchedConferenceCount": 53
   },
   "conferences": [
     {
@@ -815,17 +815,41 @@ window.CAAI_DATA = {
       "key": "ijcai",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "IJCAI 2026 Deadline",
-        "name": "International Joint Conference on Artificial Intelligence",
-        "deadlineIso": "2026-01-19T23:59:59-12:00",
-        "deadlineText": "2026-01-19 23:59:59",
-        "deadlineZone": "UTC-12",
-        "eventDate": "August 18-21, 2026",
-        "location": "Bremen, Germany",
-        "website": "https://2026.ijcai.org/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "IJCAI 2027 Abstract Deadline [Separate satellite event: August 15-17, 2027, Hengqin, China]",
+          "name": "International Joint Conference on Artificial Intelligence",
+          "deadlineIso": "2027-01-04T23:59:00-12:00",
+          "deadlineText": "2027-01-04 23:59:00",
+          "deadlineZone": "AoE",
+          "eventDate": "August 7-13, 2027",
+          "location": "Kyoto, Japan",
+          "website": "https://2027.ijcai.org/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "IJCAI 2027 Deadline [Separate satellite event: August 15-17, 2027, Hengqin, China]",
+          "name": "International Joint Conference on Artificial Intelligence",
+          "deadlineIso": "2027-01-11T23:59:00-12:00",
+          "deadlineText": "2027-01-11 23:59:00",
+          "deadlineZone": "AoE",
+          "eventDate": "August 7-13, 2027",
+          "location": "Kyoto, Japan",
+          "website": "https://2027.ijcai.org/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "IJCAI 2027 Final Decisions [Separate satellite event: August 15-17, 2027, Hengqin, China]",
+          "name": "International Joint Conference on Artificial Intelligence",
+          "deadlineIso": "2027-04-21T23:59:00-12:00",
+          "deadlineText": "2027-04-21 23:59:00",
+          "deadlineZone": "AoE",
+          "eventDate": "August 7-13, 2027",
+          "location": "Kyoto, Japan",
+          "website": "https://2027.ijcai.org/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "A26",
@@ -1318,17 +1342,6 @@ window.CAAI_DATA = {
       "notes": [],
       "deadlines": [
         {
-          "title": "DCC 2027 Deadline",
-          "name": "Data Compression Conference",
-          "deadlineIso": "2026-10-09T23:59:59-07:00",
-          "deadlineText": "2026-10-09 23:59:59",
-          "deadlineZone": "PT",
-          "eventDate": "March 23-26, 2027",
-          "location": "Snowbird, Utah, United States",
-          "website": "https://datacompressionconference.org/",
-          "source": "ccfddl"
-        },
-        {
           "title": "DCC 2027 Final Decisions",
           "name": "Data Compression Conference",
           "deadlineIso": "2026-11-23T03:59:00-08:00",
@@ -1590,17 +1603,30 @@ window.CAAI_DATA = {
       "key": "icdm",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "ICDM 2026 Deadline",
-        "name": "IEEE International Conference on Data Mining",
-        "deadlineIso": "2026-06-06T23:59:59-12:00",
-        "deadlineText": "2026-06-06 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "November 12-15, 2026",
-        "location": "Shenyang, China",
-        "website": "http://icdm2026.neu.edu.cn/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "ICDM 2027 Deadline [Full papers; dates are tentative and subject to change]",
+          "name": "IEEE International Conference on Data Mining",
+          "deadlineIso": "2027-06-06T23:59:00-12:00",
+          "deadlineText": "2027-06-06 23:59:00",
+          "deadlineZone": "AoE",
+          "eventDate": "November 15-18, 2027",
+          "location": "Brisbane, Australia",
+          "website": "https://icdm2027-website.onrender.com/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "ICDM 2027 Final Decisions [Full papers; dates are tentative and subject to change]",
+          "name": "IEEE International Conference on Data Mining",
+          "deadlineIso": "2027-08-16T23:59:00-12:00",
+          "deadlineText": "2027-08-16 23:59:00",
+          "deadlineZone": "AoE",
+          "eventDate": "November 15-18, 2027",
+          "location": "Brisbane, Australia",
+          "website": "https://icdm2027-website.onrender.com/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "B26",
@@ -1664,30 +1690,17 @@ window.CAAI_DATA = {
       "key": "wacv",
       "extraKeys": [],
       "notes": [],
-      "deadlines": [
-        {
-          "title": "WACV 2027 Final Decisions [First round]",
-          "name": "IEEE/CVF Winter Conference on Applications of Computer Vision",
-          "deadlineIso": "2026-10-09T23:59:59-12:00",
-          "deadlineText": "2026-10-09 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "Jan 4 - 8, 2027",
-          "location": "Disney Springs, Buena Vista, FL, USA",
-          "website": "https://wacv.thecvf.com/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "WACV 2027 Final Decisions [Second round]",
-          "name": "IEEE/CVF Winter Conference on Applications of Computer Vision",
-          "deadlineIso": "2026-10-09T23:59:59-12:00",
-          "deadlineText": "2026-10-09 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "Jan 4 - 8, 2027",
-          "location": "Disney Springs, Buena Vista, FL, USA",
-          "website": "https://wacv.thecvf.com/",
-          "source": "ccfddl"
-        }
-      ]
+      "lastKnownDeadline": {
+        "title": "WACV 2027 Final Decisions [Second round]",
+        "name": "IEEE/CVF Winter Conference on Applications of Computer Vision",
+        "deadlineIso": "2026-10-09T23:59:59-12:00",
+        "deadlineText": "2026-10-09 23:59:59",
+        "deadlineZone": "AoE",
+        "eventDate": "Jan 4 - 8, 2027",
+        "location": "Disney Springs, Buena Vista, FL, USA",
+        "website": "https://wacv.thecvf.com/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "B30",
@@ -3058,17 +3071,19 @@ window.CAAI_DATA = {
       "key": "icip",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "ICIP 2026 Deadline",
-        "name": "The IEEE International Conference on Image Processing",
-        "deadlineIso": "2026-02-04T23:59:59-12:00",
-        "deadlineText": "2026-02-04 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "September 14-16, 2026",
-        "location": "Tampere, Finland",
-        "website": "https://2026.ieeeicip.org/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "ICIP 2027 Deadline",
+          "name": "The IEEE International Conference on Image Processing",
+          "deadlineIso": "2027-03-31T23:59:59-12:00",
+          "deadlineText": "2027-03-31 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "November 29-December 3, 2027",
+          "location": "Singapore",
+          "website": "https://2027.ieeeicip.org/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "C33",
