@@ -10,10 +10,10 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Sat, 10 Oct 2026 11:09:06 +0000",
-    "generatedAt": "2026-10-10T21:49:53.439754+00:00",
-    "matchedConferenceCount": 110,
-    "upcomingMatchedConferenceCount": 53
+    "deadlineSourceBuildDate": "Sun, 11 Oct 2026 18:44:35 +0000",
+    "generatedAt": "2026-10-11T22:04:12.756651+00:00",
+    "matchedConferenceCount": 111,
+    "upcomingMatchedConferenceCount": 54
   },
   "conferences": [
     {
@@ -165,17 +165,6 @@ window.CAAI_DATA = {
       "notes": [],
       "deadlines": [
         {
-          "title": "SIGMOD 2027 Abstract Deadline [round 4]",
-          "name": "ACM Conference on Management of Data",
-          "deadlineIso": "2026-10-10T23:59:59-12:00",
-          "deadlineText": "2026-10-10 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "June 13-19, 2027",
-          "location": "Huntington Beach, CA, USA",
-          "website": "https://2027.sigmod.org/",
-          "source": "ccfddl"
-        },
-        {
           "title": "SIGMOD 2027 Deadline [round 4]",
           "name": "ACM Conference on Management of Data",
           "deadlineIso": "2026-10-17T23:59:59-12:00",
@@ -202,6 +191,17 @@ window.CAAI_DATA = {
           "name": "ACM Conference on Management of Data",
           "deadlineIso": "2026-12-17T23:59:59-12:00",
           "deadlineText": "2026-12-17 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "June 13-19, 2027",
+          "location": "Huntington Beach, CA, USA",
+          "website": "https://2027.sigmod.org/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "SIGMOD 2027 Final Decisions [round 4]",
+          "name": "ACM Conference on Management of Data",
+          "deadlineIso": "2027-03-12T23:59:59-12:00",
+          "deadlineText": "2027-03-12 23:59:59",
           "deadlineZone": "AoE",
           "eventDate": "June 13-19, 2027",
           "location": "Huntington Beach, CA, USA",
@@ -1654,7 +1654,7 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "lastKnownDeadline": {
-        "title": "ISWC 2026 Deadline [Regular route]",
+        "title": "ISWC 2026 Deadline [ESWC resubmissions must be committed by April 11, 2026]",
         "name": "International Semantic Web Conference",
         "deadlineIso": "2026-05-07T23:59:59-12:00",
         "deadlineText": "2026-05-07 23:59:59",
@@ -2043,17 +2043,52 @@ window.CAAI_DATA = {
       "key": "kr",
       "extraKeys": [],
       "notes": [],
-      "lastKnownDeadline": {
-        "title": "KR 2026 Deadline",
-        "name": "International Conference on Principles of Knowledge Representation and Reasoning",
-        "deadlineIso": "2026-02-13T23:59:59-12:00",
-        "deadlineText": "2026-02-13 23:59:59",
-        "deadlineZone": "UTC-12",
-        "eventDate": "July 20-23, 2026",
-        "location": "Lisbon, Portugal",
-        "website": "https://kr.org/KR2026/",
-        "source": "ccfddl"
-      }
+      "deadlines": [
+        {
+          "title": "KR 2027 Abstract Deadline [Main track; author response period: June 15-18, 2027]",
+          "name": "International Conference on Principles of Knowledge Representation and Reasoning",
+          "deadlineIso": "2027-04-23T23:59:59-12:00",
+          "deadlineText": "2027-04-23 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "September 21-24, 2027",
+          "location": "Buenos Aires, Argentina",
+          "website": "https://kr.org/KR2027/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "KR 2027 Deadline [Main track; author response period: June 15-18, 2027]",
+          "name": "International Conference on Principles of Knowledge Representation and Reasoning",
+          "deadlineIso": "2027-04-28T23:59:59-12:00",
+          "deadlineText": "2027-04-28 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "September 21-24, 2027",
+          "location": "Buenos Aires, Argentina",
+          "website": "https://kr.org/KR2027/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "KR 2027 Rebuttal Submission [Main track; author response period: June 15-18, 2027]",
+          "name": "International Conference on Principles of Knowledge Representation and Reasoning",
+          "deadlineIso": "2027-06-18T23:59:59-12:00",
+          "deadlineText": "2027-06-18 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "September 21-24, 2027",
+          "location": "Buenos Aires, Argentina",
+          "website": "https://kr.org/KR2027/",
+          "source": "ccfddl"
+        },
+        {
+          "title": "KR 2027 Final Decisions [Main track; author response period: June 15-18, 2027]",
+          "name": "International Conference on Principles of Knowledge Representation and Reasoning",
+          "deadlineIso": "2027-06-30T23:59:59-12:00",
+          "deadlineText": "2027-06-30 23:59:59",
+          "deadlineZone": "AoE",
+          "eventDate": "September 21-24, 2027",
+          "location": "Buenos Aires, Argentina",
+          "website": "https://kr.org/KR2027/",
+          "source": "ccfddl"
+        }
+      ]
     },
     {
       "id": "B39",
@@ -2811,7 +2846,18 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/esws/",
       "key": "esws",
       "extraKeys": [],
-      "notes": []
+      "notes": [],
+      "lastKnownDeadline": {
+        "title": "ESWC 2026 Deadline",
+        "name": "European Semantic Web Conference",
+        "deadlineIso": "2025-12-04T23:59:00-12:00",
+        "deadlineText": "2025-12-04 23:59:00",
+        "deadlineZone": "AoE",
+        "eventDate": "May 12-14, 2026",
+        "location": "Dubrovnik, Croatia",
+        "website": "https://2026.eswc-conferences.org/",
+        "source": "ccfddl"
+      }
     },
     {
       "id": "C23",
