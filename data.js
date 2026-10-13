@@ -10,8 +10,8 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Sun, 11 Oct 2026 18:44:35 +0000",
-    "generatedAt": "2026-10-11T22:04:12.756651+00:00",
+    "deadlineSourceBuildDate": "Mon, 12 Oct 2026 10:09:44 +0000",
+    "generatedAt": "2026-10-13T00:47:31.781939+00:00",
     "matchedConferenceCount": 111,
     "upcomingMatchedConferenceCount": 54
   },
@@ -3043,17 +3043,6 @@ window.CAAI_DATA = {
       "notes": [],
       "deadlines": [
         {
-          "title": "HPCA 2027 Rebuttal Submission",
-          "name": "IEEE International Symposium on High-Performance Computer Architecture",
-          "deadlineIso": "2026-10-11T23:59:59-12:00",
-          "deadlineText": "2026-10-11 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "March 20-24, 2027",
-          "location": "Salt Lake City, Utah",
-          "website": "https://conf.researchr.org/home/hpca-2027",
-          "source": "ccfddl"
-        },
-        {
           "title": "HPCA 2027 Final Decisions",
           "name": "IEEE International Symposium on High-Performance Computer Architecture",
           "deadlineIso": "2026-11-06T23:59:59-12:00",
@@ -3957,17 +3946,6 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [],
       "deadlines": [
-        {
-          "title": "EACL 2027 Deadline [EACL commitment after ARR meta-reviews; reviewed papers only]",
-          "name": "The Annual Conference of the European Chapter of the Association for Computational Linguistics",
-          "deadlineIso": "2026-10-11T23:59:59-12:00",
-          "deadlineText": "2026-10-11 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "March 9-14, 2027",
-          "location": "Athens, Greece",
-          "website": "https://2027.eacl.org/",
-          "source": "ccfddl"
-        },
         {
           "title": "EACL 2027 Final Decisions [EACL commitment after ARR meta-reviews; reviewed papers only]",
           "name": "The Annual Conference of the European Chapter of the Association for Computational Linguistics",
