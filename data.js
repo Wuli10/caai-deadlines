@@ -10,10 +10,10 @@ window.CAAI_DATA = {
       "C": 79
     },
     "deadlineSource": "https://ccfddl.com/conference/deadlines_en.xml",
-    "deadlineSourceBuildDate": "Mon, 12 Oct 2026 10:09:44 +0000",
-    "generatedAt": "2026-10-13T00:47:31.781939+00:00",
-    "matchedConferenceCount": 111,
-    "upcomingMatchedConferenceCount": 54
+    "deadlineSourceBuildDate": "",
+    "generatedAt": "2026-10-13T22:51:29.874093+00:00",
+    "matchedConferenceCount": 0,
+    "upcomingMatchedConferenceCount": 0
   },
   "conferences": [
     {
@@ -27,31 +27,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/aaai/",
       "key": "aaai",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "AAAI 2027 Rebuttal Submission",
-          "name": "AAAI Conference on Artificial Intelligence",
-          "deadlineIso": "2026-10-25T23:59:59-12:00",
-          "deadlineText": "2026-10-25 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "February 16-23, 2027",
-          "location": "Montréal, Québec, Canada",
-          "website": "https://aaai.org/conference/aaai/aaai-27/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "AAAI 2027 Final Decisions",
-          "name": "AAAI Conference on Artificial Intelligence",
-          "deadlineIso": "2026-11-30T23:59:59-12:00",
-          "deadlineText": "2026-11-30 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "February 16-23, 2027",
-          "location": "Montréal, Québec, Canada",
-          "website": "https://aaai.org/conference/aaai/aaai-27/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "A02",
@@ -64,31 +40,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/chi/",
       "key": "chi",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "CHI 2027 Rebuttal Submission",
-          "name": "ACM Conference on Human Factors in Computing Systems",
-          "deadlineIso": "2026-12-03T23:59:59-12:00",
-          "deadlineText": "2026-12-03 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "May 10 - 14, 2027",
-          "location": "David L. Lawrence Convention Center, Pittsburgh, USA",
-          "website": "https://chi2027.acm.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "CHI 2027 Final Decisions",
-          "name": "ACM Conference on Human Factors in Computing Systems",
-          "deadlineIso": "2026-12-17T23:59:59-12:00",
-          "deadlineText": "2026-12-17 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "May 10 - 14, 2027",
-          "location": "David L. Lawrence Convention Center, Pittsburgh, USA",
-          "website": "https://chi2027.acm.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "A03",
@@ -101,18 +53,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/mm/",
       "key": "mm",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ACM MM 2026 Deadline",
-        "name": "ACM International Conference on Multimedia",
-        "deadlineIso": "2026-04-01T23:59:59-12:00",
-        "deadlineText": "2026-04-01 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "November 11-14, 2026",
-        "location": "Rio de Janeiro, Brazil",
-        "website": "https://2026.acmmm.org/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "A04",
@@ -125,31 +66,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/kdd/",
       "key": "kdd",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "SIGKDD 2027 Rebuttal Submission [1st round of 2 total rounds]",
-          "name": "ACM Knowledge Discovery and Data Mining",
-          "deadlineIso": "2026-10-13T23:59:59-12:00",
-          "deadlineText": "2026-10-13 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "August 1-5, 2027",
-          "location": "San Jose, California, USA",
-          "website": "https://kdd2027.kdd.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "SIGKDD 2027 Final Decisions [1st round of 2 total rounds]",
-          "name": "ACM Knowledge Discovery and Data Mining",
-          "deadlineIso": "2026-11-14T23:59:59-12:00",
-          "deadlineText": "2026-11-14 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "August 1-5, 2027",
-          "location": "San Jose, California, USA",
-          "website": "https://kdd2027.kdd.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "A05",
@@ -162,53 +79,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/sigmod/",
       "key": "sigmod",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "SIGMOD 2027 Deadline [round 4]",
-          "name": "ACM Conference on Management of Data",
-          "deadlineIso": "2026-10-17T23:59:59-12:00",
-          "deadlineText": "2026-10-17 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "June 13-19, 2027",
-          "location": "Huntington Beach, CA, USA",
-          "website": "https://2027.sigmod.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "SIGMOD 2027 Final Decisions [round 3]",
-          "name": "ACM Conference on Management of Data",
-          "deadlineIso": "2026-12-12T23:59:59-12:00",
-          "deadlineText": "2026-12-12 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "June 13-19, 2027",
-          "location": "Huntington Beach, CA, USA",
-          "website": "https://2027.sigmod.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "SIGMOD 2027 Rebuttal Submission [round 4]",
-          "name": "ACM Conference on Management of Data",
-          "deadlineIso": "2026-12-17T23:59:59-12:00",
-          "deadlineText": "2026-12-17 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "June 13-19, 2027",
-          "location": "Huntington Beach, CA, USA",
-          "website": "https://2027.sigmod.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "SIGMOD 2027 Final Decisions [round 4]",
-          "name": "ACM Conference on Management of Data",
-          "deadlineIso": "2027-03-12T23:59:59-12:00",
-          "deadlineText": "2027-03-12 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "June 13-19, 2027",
-          "location": "Huntington Beach, CA, USA",
-          "website": "https://2027.sigmod.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "A06",
@@ -221,18 +92,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/siggraph/",
       "key": "siggraph",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ACM SIGGRAPH 2026 Deadline [Registration / full paper]",
-        "name": "ACM SIGGRAPH Annual Conference",
-        "deadlineIso": "2026-01-22T22:00:00+00:00",
-        "deadlineText": "2026-01-22 22:00:00",
-        "deadlineZone": "UTC+0",
-        "eventDate": "July 19 - 23, 2026",
-        "location": "Los Angeles, California",
-        "website": "https://s2026.siggraph.org/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "A07",
@@ -245,18 +105,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/isca/",
       "key": "isca",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ISCA 2026 Deadline",
-        "name": "International Symposium on Computer Architecture",
-        "deadlineIso": "2025-11-17T23:59:59-12:00",
-        "deadlineText": "2025-11-17 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "June 29-July 1, 2026",
-        "location": "Raleigh, USA",
-        "website": "https://iscaconf.org/isca2026/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "A08",
@@ -269,20 +118,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/acl/",
       "key": "acl",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "ACL 2027 Deadline [ARR Submission]",
-          "name": "Annual Meeting of the Association for Computational Linguistics",
-          "deadlineIso": "2027-01-04T23:59:59-12:00",
-          "deadlineText": "2027-01-04 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "August 17-22, 2027",
-          "location": "Kyoto, Japan",
-          "website": "https://2027.aclweb.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "A09",
@@ -295,18 +131,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/cicai/",
       "key": "cicai",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "CICAI 2026 Deadline",
-        "name": "CAAI International Conference on Artificial Intelligence",
-        "deadlineIso": "2026-06-08T23:59:59+08:00",
-        "deadlineText": "2026-06-08 23:59:59",
-        "deadlineZone": "UTC+8",
-        "eventDate": "October 17-19, 2026",
-        "location": "Haining, Zhejiang, China",
-        "website": "https://cicai.caai.cn/index.html",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "A10",
@@ -319,18 +144,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/emnlp/",
       "key": "emnlp",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "EMNLP 2026 Deadline [Commitment deadline for papers with ARR reviews and meta-reviews]",
-        "name": "The annual Conference on Empirical Methods in Natural Language Processing",
-        "deadlineIso": "2026-08-02T23:59:59-12:00",
-        "deadlineText": "2026-08-02 23:59:59",
-        "deadlineZone": "UTC-12",
-        "eventDate": "October 25-27, 2026",
-        "location": "Budapest, Hungary (Hybrid)",
-        "website": "https://2026.emnlp.org/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "A11",
@@ -343,18 +157,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/colt/",
       "key": "colt",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "COLT 2026 Deadline",
-        "name": "Annual Conference on Learning Theory",
-        "deadlineIso": "2026-02-04T23:59:59-12:00",
-        "deadlineText": "2026-02-04 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "June 30 - July 3, 2026",
-        "location": "San Diego, California",
-        "website": "https://learningtheory.org/colt2026/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "A12",
@@ -367,18 +170,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/uai/",
       "key": "uai",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "UAI 2026 Deadline",
-        "name": "Conference on Uncertainty in Artificial Intelligence",
-        "deadlineIso": "2026-02-25T23:59:59-12:00",
-        "deadlineText": "2026-02-25 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "August 18-20, 2026",
-        "location": "Amsterdam, Netherlands (Hybrid)",
-        "website": "https://www.auai.org/uai2026/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "A13",
@@ -391,18 +183,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/eccv/",
       "key": "eccv",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ECCV 2026 Deadline",
-        "name": "European Conference on Computer Vision",
-        "deadlineIso": "2026-03-05T14:00:00-08:00",
-        "deadlineText": "2026-03-05 14:00:00",
-        "deadlineZone": "UTC-8",
-        "eventDate": "September 10-12, 2026",
-        "location": "Malmö, Sweden",
-        "website": "https://eccv.ecva.net/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "A14",
@@ -415,31 +196,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/icde/",
       "key": "icde",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "ICDE 2027 Deadline [second round]",
-          "name": "IEEE International Conference on Data Engineering",
-          "deadlineIso": "2026-11-11T17:00:00-08:00",
-          "deadlineText": "2026-11-11 17:00:00",
-          "deadlineZone": "PT",
-          "eventDate": "May 17-21, 2027",
-          "location": "Copenhagen, Denmark",
-          "website": "https://icde2027.github.io/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "ICDE 2027 Rebuttal Submission [second round]",
-          "name": "IEEE International Conference on Data Engineering",
-          "deadlineIso": "2027-01-15T17:00:00-08:00",
-          "deadlineText": "2027-01-15 17:00:00",
-          "deadlineZone": "PT",
-          "eventDate": "May 17-21, 2027",
-          "location": "Copenhagen, Denmark",
-          "website": "https://icde2027.github.io/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "A15",
@@ -452,20 +209,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/vr/",
       "key": "vr",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "IEEE VR 2027 Final Decisions",
-          "name": "IEEE Virtual Reality",
-          "deadlineIso": "2027-01-07T23:59:59-12:00",
-          "deadlineText": "2027-01-07 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "February 27 - March 3, 2027",
-          "location": "Melbourne, Australia",
-          "website": "https://ieeevr.org/2027/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "A16",
@@ -478,18 +222,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/visualization/",
       "key": "visualization",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "IEEE VIS 2026 Deadline",
-        "name": "IEEE Visualization Conference",
-        "deadlineIso": "2026-03-31T23:59:59-12:00",
-        "deadlineText": "2026-03-31 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "November 10-13, 2026",
-        "location": "Boston, Massachusetts, USA",
-        "website": "https://ieeevis.org/year/2026/welcome",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "A17",
@@ -502,18 +235,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/micro/",
       "key": "micro",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "MICRO 2026 Deadline",
-        "name": "IEEE/ACM International Symposium on Microarchitecture",
-        "deadlineIso": "2026-04-07T23:59:59-04:00",
-        "deadlineText": "2026-04-07 23:59:59",
-        "deadlineZone": "UTC-4",
-        "eventDate": "November 2-4, 2026",
-        "location": "Athens, Greece",
-        "website": "https://microarch.org/micro59/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "A18",
@@ -526,53 +248,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/cvpr/",
       "key": "cvpr",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "CVPR 2027 Abstract Deadline",
-          "name": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
-          "deadlineIso": "2026-11-10T23:59:59-12:00",
-          "deadlineText": "2026-11-10 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "June 20-25, 2027",
-          "location": "Seattle, WA, United States",
-          "website": "https://cvpr.thecvf.com/Conferences/2027",
-          "source": "ccfddl"
-        },
-        {
-          "title": "CVPR 2027 Deadline",
-          "name": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
-          "deadlineIso": "2026-11-16T23:59:59-12:00",
-          "deadlineText": "2026-11-16 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "June 20-25, 2027",
-          "location": "Seattle, WA, United States",
-          "website": "https://cvpr.thecvf.com/Conferences/2027",
-          "source": "ccfddl"
-        },
-        {
-          "title": "CVPR 2027 Rebuttal Submission",
-          "name": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
-          "deadlineIso": "2027-02-01T23:59:59-12:00",
-          "deadlineText": "2027-02-01 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "June 20-25, 2027",
-          "location": "Seattle, WA, United States",
-          "website": "https://cvpr.thecvf.com/Conferences/2027",
-          "source": "ccfddl"
-        },
-        {
-          "title": "CVPR 2027 Final Decisions",
-          "name": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
-          "deadlineIso": "2027-02-25T23:59:59-12:00",
-          "deadlineText": "2027-02-25 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "June 20-25, 2027",
-          "location": "Seattle, WA, United States",
-          "website": "https://cvpr.thecvf.com/Conferences/2027",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "A19",
@@ -585,31 +261,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/sigir/",
       "key": "sigir",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "SIGIR 2027 Abstract Deadline",
-          "name": "International Conference on Research on Development in Information Retrieval",
-          "deadlineIso": "2027-01-14T23:59:59-12:00",
-          "deadlineText": "2027-01-14 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "July 18-24, 2027",
-          "location": "San Jose, California, USA",
-          "website": "https://sigir2027.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "SIGIR 2027 Deadline",
-          "name": "International Conference on Research on Development in Information Retrieval",
-          "deadlineIso": "2027-01-21T23:59:59-12:00",
-          "deadlineText": "2027-01-21 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "July 18-24, 2027",
-          "location": "San Jose, California, USA",
-          "website": "https://sigir2027.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "A20",
@@ -622,18 +274,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/iccv/",
       "key": "iccv",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ICCV 2025 Deadline",
-        "name": "IEEE International Conference on Computer Vision",
-        "deadlineIso": "2025-03-08T09:59:59+00:00",
-        "deadlineText": "2025-03-08 09:59:59",
-        "deadlineZone": "UTC+0",
-        "eventDate": "October 21-23, 2025",
-        "location": "Honolulu, Hawaii (Hybrid)",
-        "website": "https://iccv.thecvf.com/Conferences/2025",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "A21",
@@ -646,31 +287,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/iclr/",
       "key": "iclr",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "ICLR 2027 Rebuttal Submission",
-          "name": "International Conference on Learning Representations",
-          "deadlineIso": "2026-11-18T23:59:59-12:00",
-          "deadlineText": "2026-11-18 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "April 26-30, 2027",
-          "location": "San Francisco, CA, USA",
-          "website": "https://iclr.cc/Conferences/2027",
-          "source": "ccfddl"
-        },
-        {
-          "title": "ICLR 2027 Final Decisions",
-          "name": "International Conference on Learning Representations",
-          "deadlineIso": "2026-12-16T23:59:59-12:00",
-          "deadlineText": "2026-12-16 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "April 26-30, 2027",
-          "location": "San Francisco, CA, USA",
-          "website": "https://iclr.cc/Conferences/2027",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "A22",
@@ -683,18 +300,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/icml/",
       "key": "icml",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ICML 2026 Deadline [Paper Submissions Open on OpenReview Jan 08 2026 12:00AM UTC-0]",
-        "name": "International Conference on Machine Learning",
-        "deadlineIso": "2026-01-29T11:59:59+00:00",
-        "deadlineText": "2026-01-29 11:59:59",
-        "deadlineZone": "UTC+0",
-        "eventDate": "July 6-11, 2026",
-        "location": "Seoul, Korea",
-        "website": "https://icml.cc/Conferences/2026",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "A23",
@@ -707,53 +313,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/vldb/",
       "key": "vldb",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "VLDB 2027 Abstract Deadline",
-          "name": "International Conference on Very Large Data Bases",
-          "deadlineIso": "2026-10-25T17:00:00-07:00",
-          "deadlineText": "2026-10-25 17:00:00",
-          "deadlineZone": "PT",
-          "eventDate": "August 23 - August 27, 2027",
-          "location": "Athens, Greece",
-          "website": "https://www.vldb.org/2027/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "VLDB 2027 Deadline",
-          "name": "International Conference on Very Large Data Bases",
-          "deadlineIso": "2026-11-01T17:00:00-08:00",
-          "deadlineText": "2026-11-01 17:00:00",
-          "deadlineZone": "PT",
-          "eventDate": "August 23 - August 27, 2027",
-          "location": "Athens, Greece",
-          "website": "https://www.vldb.org/2027/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "VLDB 2027 Abstract Deadline",
-          "name": "International Conference on Very Large Data Bases",
-          "deadlineIso": "2026-11-25T17:00:00-08:00",
-          "deadlineText": "2026-11-25 17:00:00",
-          "deadlineZone": "PT",
-          "eventDate": "August 23 - August 27, 2027",
-          "location": "Athens, Greece",
-          "website": "https://www.vldb.org/2027/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "VLDB 2027 Deadline",
-          "name": "International Conference on Very Large Data Bases",
-          "deadlineIso": "2026-12-01T17:00:00-08:00",
-          "deadlineText": "2026-12-01 17:00:00",
-          "deadlineZone": "PT",
-          "eventDate": "August 23 - August 27, 2027",
-          "location": "Athens, Greece",
-          "website": "https://www.vldb.org/2027/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "A24",
@@ -766,42 +326,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/www/",
       "key": "www",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "WWW 2027 Abstract Deadline",
-          "name": "International World Wide Web Conferences",
-          "deadlineIso": "2026-10-18T23:59:59-12:00",
-          "deadlineText": "2026-10-18 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "May 10 - 14, 2027",
-          "location": "Dublin, Ireland",
-          "website": "https://www2027.thewebconf.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "WWW 2027 Deadline",
-          "name": "International World Wide Web Conferences",
-          "deadlineIso": "2026-10-25T23:59:59-12:00",
-          "deadlineText": "2026-10-25 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "May 10 - 14, 2027",
-          "location": "Dublin, Ireland",
-          "website": "https://www2027.thewebconf.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "WWW 2027 Final Decisions",
-          "name": "International World Wide Web Conferences",
-          "deadlineIso": "2027-01-04T23:59:59-12:00",
-          "deadlineText": "2027-01-04 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "May 10 - 14, 2027",
-          "location": "Dublin, Ireland",
-          "website": "https://www2027.thewebconf.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "A25",
@@ -814,42 +339,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/ijcai/",
       "key": "ijcai",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "IJCAI 2027 Abstract Deadline [Separate satellite event: August 15-17, 2027, Hengqin, China]",
-          "name": "International Joint Conference on Artificial Intelligence",
-          "deadlineIso": "2027-01-04T23:59:00-12:00",
-          "deadlineText": "2027-01-04 23:59:00",
-          "deadlineZone": "AoE",
-          "eventDate": "August 7-13, 2027",
-          "location": "Kyoto, Japan",
-          "website": "https://2027.ijcai.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "IJCAI 2027 Deadline [Separate satellite event: August 15-17, 2027, Hengqin, China]",
-          "name": "International Joint Conference on Artificial Intelligence",
-          "deadlineIso": "2027-01-11T23:59:00-12:00",
-          "deadlineText": "2027-01-11 23:59:00",
-          "deadlineZone": "AoE",
-          "eventDate": "August 7-13, 2027",
-          "location": "Kyoto, Japan",
-          "website": "https://2027.ijcai.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "IJCAI 2027 Final Decisions [Separate satellite event: August 15-17, 2027, Hengqin, China]",
-          "name": "International Joint Conference on Artificial Intelligence",
-          "deadlineIso": "2027-04-21T23:59:00-12:00",
-          "deadlineText": "2027-04-21 23:59:00",
-          "deadlineZone": "AoE",
-          "eventDate": "August 7-13, 2027",
-          "location": "Kyoto, Japan",
-          "website": "https://2027.ijcai.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "A26",
@@ -862,18 +352,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/nips/",
       "key": "nips",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "NeurIPS 2026 Deadline",
-        "name": "Conference on Neural Information Processing Systems",
-        "deadlineIso": "2026-05-07T11:59:00+00:00",
-        "deadlineText": "2026-05-07 11:59:00",
-        "deadlineZone": "UTC+0",
-        "eventDate": "December 8-10 (Sydney), December 9-11 (Atlanta and Paris), 2026",
-        "location": "Sydney, Australia; Atlanta, USA; Paris, France",
-        "website": "https://neurips.cc/Conferences/2026",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "A27",
@@ -886,31 +365,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/rss/",
       "key": "rss",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "RSS 2027 Deadline [Stage 1: initial 6-page extended abstract submission]",
-          "name": "Robotics Science and Systems",
-          "deadlineIso": "2026-12-04T23:59:59-12:00",
-          "deadlineText": "2026-12-04 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "July 6-11, 2027",
-          "location": "Athens, Greece",
-          "website": "https://roboticsconference.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "RSS 2027 Rebuttal Submission [Stage 1: initial 6-page extended abstract submission]",
-          "name": "Robotics Science and Systems",
-          "deadlineIso": "2027-02-12T23:59:59-12:00",
-          "deadlineText": "2027-02-12 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "July 6-11, 2027",
-          "location": "Athens, Greece",
-          "website": "https://roboticsconference.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "A28",
@@ -923,20 +378,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/icra/",
       "key": "icra",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "ICRA 2027 Final Decisions [Extended submission deadline]",
-          "name": "IEEE International Conference on Robotics and Automation",
-          "deadlineIso": "2027-02-01T03:59:00-08:00",
-          "deadlineText": "2027-02-01 03:59:00",
-          "deadlineZone": "UTC-8",
-          "eventDate": "May 24-28, 2027",
-          "location": "Seoul, Republic of Korea",
-          "website": "https://2027.ieee-icra.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B01",
@@ -949,18 +391,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/hotchips/",
       "key": "hotchips",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "Hot Chips 2026 Deadline [Technical presentation abstract]",
-        "name": "Hot Chips: A Symposium on High Performance Chips",
-        "deadlineIso": "2026-04-08T23:59:59-12:00",
-        "deadlineText": "2026-04-08 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "August 24-25, 2026",
-        "location": "Memorial Auditorium, Stanford, Palo Alto, CA",
-        "website": "https://www.hotchips.org/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B02",
@@ -973,18 +404,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/recsys/",
       "key": "recsys",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "RecSys 2026 Deadline",
-        "name": "ACM Conference on Recommender Systems",
-        "deadlineIso": "2026-04-21T23:59:59-12:00",
-        "deadlineText": "2026-04-21 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "September 29 - October 1, 2026",
-        "location": "Minneapolis, Minnesota, USA",
-        "website": "https://recsys.acm.org/recsys26",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B03",
@@ -997,18 +417,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/cikm/",
       "key": "cikm",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "CIKM 2026 Deadline",
-        "name": "ACM International Conference on Information and Knowledge Management",
-        "deadlineIso": "2026-05-23T23:59:59-12:00",
-        "deadlineText": "2026-05-23 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "November 9-11, 2026",
-        "location": "Rome, Italy",
-        "website": "https://cikm2026.diag.uniroma1.it/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B04",
@@ -1021,31 +430,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/iui/",
       "key": "iui",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "IUI 2027 Rebuttal Submission",
-          "name": "ACM Conference on Intelligent User Interfaces",
-          "deadlineIso": "2026-11-05T23:59:59-12:00",
-          "deadlineText": "2026-11-05 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "February 8-11, 2027",
-          "location": "Helsinki, Finland",
-          "website": "https://iui.hosting.acm.org/2027/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "IUI 2027 Final Decisions",
-          "name": "ACM Conference on Intelligent User Interfaces",
-          "deadlineIso": "2026-11-23T23:59:59-12:00",
-          "deadlineText": "2026-11-23 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "February 8-11, 2027",
-          "location": "Helsinki, Finland",
-          "website": "https://iui.hosting.acm.org/2027/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B05",
@@ -1058,18 +443,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/tabletop/",
       "key": "tabletop",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ISS 2026 Deadline [Summer round]",
-        "name": "ACM International Conference on Interactive Surfaces and Spaces",
-        "deadlineIso": "2026-07-22T23:59:59-12:00",
-        "deadlineText": "2026-07-22 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "November 23-26, 2026",
-        "location": "Turin, Italy",
-        "website": "https://iss.acm.org/2026/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B06",
@@ -1082,20 +456,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/wsdm/",
       "key": "wsdm",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "WSDM 2027 Final Decisions [Full Paper]",
-          "name": "International Conference on Web Search and Data Mining",
-          "deadlineIso": "2026-11-02T23:59:59-12:00",
-          "deadlineText": "2026-11-02 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "February 15 - 19, 2027",
-          "location": "Cordis, Hong Kong SAR, China",
-          "website": "https://wsdm-conference.org/2027/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B07",
@@ -1121,18 +482,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/sca/",
       "key": "sca",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "SCA 2026 Deadline",
-        "name": "ACM SIGGRAPH/Eurographics Symposium on Computer Animation",
-        "deadlineIso": "2026-04-17T23:59:59+00:00",
-        "deadlineText": "2026-04-17 23:59:59",
-        "deadlineZone": "UTC+0",
-        "eventDate": "July 8-10, 2026",
-        "location": "Barcelona, Spain",
-        "website": "https://computeranimation.org/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B09",
@@ -1145,53 +495,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/pods/",
       "key": "pods",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "PODS 2027 Abstract Deadline [Second Submission Cycle]",
-          "name": "ACM Symposium on Principles of Database Systems",
-          "deadlineIso": "2026-12-03T23:59:59-12:00",
-          "deadlineText": "2026-12-03 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "June 13-19, 2027",
-          "location": "Huntington Beach, California, USA",
-          "website": "https://2027.sigmod.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "PODS 2027 Deadline [Second Submission Cycle]",
-          "name": "ACM Symposium on Principles of Database Systems",
-          "deadlineIso": "2026-12-10T23:59:59-12:00",
-          "deadlineText": "2026-12-10 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "June 13-19, 2027",
-          "location": "Huntington Beach, California, USA",
-          "website": "https://2027.sigmod.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "PODS 2027 Rebuttal Submission [Second Submission Cycle]",
-          "name": "ACM Symposium on Principles of Database Systems",
-          "deadlineIso": "2027-01-29T23:59:59-12:00",
-          "deadlineText": "2027-01-29 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "June 13-19, 2027",
-          "location": "Huntington Beach, California, USA",
-          "website": "https://2027.sigmod.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "PODS 2027 Final Decisions [Second Submission Cycle]",
-          "name": "ACM Symposium on Principles of Database Systems",
-          "deadlineIso": "2027-03-01T23:59:59-12:00",
-          "deadlineText": "2027-03-01 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "June 13-19, 2027",
-          "location": "Huntington Beach, California, USA",
-          "website": "https://2027.sigmod.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B10",
@@ -1204,31 +508,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/eurographics/",
       "key": "eurographics",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "Eurographics 2027 Rebuttal Submission",
-          "name": "Eurographics",
-          "deadlineIso": "2026-11-30T23:59:59+00:00",
-          "deadlineText": "2026-11-30 23:59:59",
-          "deadlineZone": "UTC",
-          "eventDate": "May 10-14, 2027",
-          "location": "Lucca, Italy",
-          "website": "https://eg2027.isti.cnr.it/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "Eurographics 2027 Final Decisions",
-          "name": "Eurographics",
-          "deadlineIso": "2027-02-09T23:59:59+00:00",
-          "deadlineText": "2027-02-09 23:59:59",
-          "deadlineZone": "UTC",
-          "eventDate": "May 10-14, 2027",
-          "location": "Lucca, Italy",
-          "website": "https://eg2027.isti.cnr.it/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B11",
@@ -1254,18 +534,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/cogsci/",
       "key": "cogsci",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "CogSci 2026 Deadline",
-        "name": "Annual Meeting of the Cognitive Science Society",
-        "deadlineIso": "2026-02-02T23:59:59-12:00",
-        "deadlineText": "2026-02-02 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "July 23-25, 2026",
-        "location": "Rio de Janeiro, Brazil (Hybrid)",
-        "website": "https://cognitivesciencesociety.org/cogsci-2026/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B13",
@@ -1278,31 +547,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/interspeech/",
       "key": "interspeech",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "InterSpeech 2027 Deadline",
-          "name": "Conference of the International Speech Communication Association",
-          "deadlineIso": "2027-02-09T23:59:59+00:00",
-          "deadlineText": "2027-02-09 23:59:59",
-          "deadlineZone": "UTC+0",
-          "eventDate": "August 29 - September 2, 2027",
-          "location": "São Paulo, Brazil",
-          "website": "https://interspeech2027.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "InterSpeech 2027 Final Decisions",
-          "name": "Conference of the International Speech Communication Association",
-          "deadlineIso": "2027-06-03T11:59:00+00:00",
-          "deadlineText": "2027-06-03 11:59:00",
-          "deadlineZone": "UTC+0",
-          "eventDate": "August 29 - September 2, 2027",
-          "location": "São Paulo, Brazil",
-          "website": "https://interspeech2027.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B14",
@@ -1315,18 +560,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/cidr/",
       "key": "cidr",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "CIDR 2027 Final Decisions",
-        "name": "International Conference on Innovative Data Systems Research",
-        "deadlineIso": "2026-10-06T23:59:59-07:00",
-        "deadlineText": "2026-10-06 23:59:59",
-        "deadlineZone": "UTC-7",
-        "eventDate": "January 24-27, 2027",
-        "location": "Amsterdam, The Netherlands",
-        "website": "https://www.cidrdb.org/cidr2027/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B15",
@@ -1339,20 +573,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/dcc/",
       "key": "dcc",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "DCC 2027 Final Decisions",
-          "name": "Data Compression Conference",
-          "deadlineIso": "2026-11-23T03:59:00-08:00",
-          "deadlineText": "2026-11-23 03:59:00",
-          "deadlineZone": "PT",
-          "eventDate": "March 23-26, 2027",
-          "location": "Snowbird, Utah, United States",
-          "website": "https://datacompressionconference.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B16",
@@ -1365,18 +586,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/vissym/",
       "key": "vissym",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "EuroVis 2026 Deadline",
-        "name": "Eurographics Conference on Visualization",
-        "deadlineIso": "2025-12-03T23:59:59-12:00",
-        "deadlineText": "2025-12-03 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "June 8-12, 2026",
-        "location": "Nottingham, United Kingdom",
-        "website": "https://www.eurovis.org.uk/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B17",
@@ -1389,18 +599,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/sgp/",
       "key": "sgp",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "SGP 2026 Deadline [Second round: recommended abstract / full paper]",
-        "name": "Eurographics Symposium on Geometry Processing",
-        "deadlineIso": "2026-04-15T23:59:59+00:00",
-        "deadlineText": "2026-04-15 23:59:59",
-        "deadlineZone": "UTC+0",
-        "eventDate": "July 1 - 3, 2026",
-        "location": "Bern, Switzerland",
-        "website": "https://sgp26.org/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B18",
@@ -1413,18 +612,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/rt/",
       "key": "rt",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "EGSR 2026 Deadline",
-        "name": "Eurographics Symposium on Rendering",
-        "deadlineIso": "2026-04-15T23:59:59-12:00",
-        "deadlineText": "2026-04-15 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "July 1-3, 2026",
-        "location": "Bordeaux, France",
-        "website": "https://egsr2026.inria.fr/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B19",
@@ -1439,41 +627,6 @@ window.CAAI_DATA = {
       "extraKeys": [],
       "notes": [
         "PDF source link points to ICASSP; DBLP key corrected to ECAI for deadline matching."
-      ],
-      "deadlines": [
-        {
-          "title": "ECAI 2027 Deadline",
-          "name": "European Conference on Artificial Intelligence",
-          "deadlineIso": "2027-04-14T23:59:59-12:00",
-          "deadlineText": "2027-04-14 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "October 2-7, 2027",
-          "location": "Athens, Greece",
-          "website": "https://ecai2027.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "ECAI 2027 Rebuttal Submission",
-          "name": "European Conference on Artificial Intelligence",
-          "deadlineIso": "2027-06-18T23:59:59-12:00",
-          "deadlineText": "2027-06-18 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "October 2-7, 2027",
-          "location": "Athens, Greece",
-          "website": "https://ecai2027.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "ECAI 2027 Final Decisions",
-          "name": "European Conference on Artificial Intelligence",
-          "deadlineIso": "2027-07-15T23:59:59-12:00",
-          "deadlineText": "2027-07-15 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "October 2-7, 2027",
-          "location": "Athens, Greece",
-          "website": "https://ecai2027.org/",
-          "source": "ccfddl"
-        }
       ]
     },
     {
@@ -1487,18 +640,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/ecscw/",
       "key": "ecscw",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ECSCW 2026 Deadline",
-        "name": "European Conference on Computer Supported Cooperative Work",
-        "deadlineIso": "2026-03-06T23:59:59-12:00",
-        "deadlineText": "2026-03-06 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "July 1-3, 2026",
-        "location": "Munich, Germany",
-        "website": "https://ecscw.eusset.eu/2026",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B21",
@@ -1526,18 +668,7 @@ window.CAAI_DATA = {
       "extraKeys": [
         "pkdd"
       ],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ECML-PKDD 2026 Deadline [Research track]",
-        "name": "European Conference on Machine Learning and 25th Principles and Practice of Knowledge Discovery in Databases",
-        "deadlineIso": "2026-03-12T23:59:59-12:00",
-        "deadlineText": "2026-03-12 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "September 7-11, 2026",
-        "location": "Naples, Italy",
-        "website": "https://ecmlpkdd.org/2026/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B23",
@@ -1550,20 +681,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/haptics/",
       "key": "haptics",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "WHC 2027 Deadline",
-          "name": "IEEE World Haptics Conference",
-          "deadlineIso": "2027-01-29T23:59:59-12:00",
-          "deadlineText": "2027-01-29 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "July 12-15, 2027",
-          "location": "Boston, Massachusetts, USA",
-          "website": "https://2027.worldhaptics.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B24",
@@ -1576,20 +694,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/icassp/",
       "key": "icassp",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "ICASSP 2027 Final Decisions",
-          "name": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
-          "deadlineIso": "2027-01-13T23:59:59-12:00",
-          "deadlineText": "2027-01-13 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "May 16-21, 2027",
-          "location": "Toronto, Canada",
-          "website": "https://2027.ieeeicassp.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B25",
@@ -1602,31 +707,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/icdm/",
       "key": "icdm",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "ICDM 2027 Deadline [Full papers; dates are tentative and subject to change]",
-          "name": "IEEE International Conference on Data Mining",
-          "deadlineIso": "2027-06-06T23:59:00-12:00",
-          "deadlineText": "2027-06-06 23:59:00",
-          "deadlineZone": "AoE",
-          "eventDate": "November 15-18, 2027",
-          "location": "Brisbane, Australia",
-          "website": "https://icdm2027-website.onrender.com/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "ICDM 2027 Final Decisions [Full papers; dates are tentative and subject to change]",
-          "name": "IEEE International Conference on Data Mining",
-          "deadlineIso": "2027-08-16T23:59:00-12:00",
-          "deadlineText": "2027-08-16 23:59:00",
-          "deadlineZone": "AoE",
-          "eventDate": "November 15-18, 2027",
-          "location": "Brisbane, Australia",
-          "website": "https://icdm2027-website.onrender.com/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B26",
@@ -1652,18 +733,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/semweb/",
       "key": "semweb",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ISWC 2026 Deadline [ESWC resubmissions must be committed by April 11, 2026]",
-        "name": "International Semantic Web Conference",
-        "deadlineIso": "2026-05-07T23:59:59-12:00",
-        "deadlineText": "2026-05-07 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "October 27-29, 2026",
-        "location": "Bari, Italy",
-        "website": "https://iswc2026.semanticweb.org/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B28",
@@ -1689,18 +759,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/wacv/",
       "key": "wacv",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "WACV 2027 Final Decisions [Second round]",
-        "name": "IEEE/CVF Winter Conference on Applications of Computer Vision",
-        "deadlineIso": "2026-10-09T23:59:59-12:00",
-        "deadlineText": "2026-10-09 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "Jan 4 - 8, 2027",
-        "location": "Disney Springs, Buena Vista, FL, USA",
-        "website": "https://wacv.thecvf.com/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B30",
@@ -1713,20 +772,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/iros/",
       "key": "iros",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "IROS 2027 Deadline [Paper submission deadline: March 1, 2027; exact cutoff time and timezone not specified on the official IEEE RAS event page]",
-          "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
-          "deadlineIso": "2027-03-01T23:59:59-12:00",
-          "deadlineText": "2027-03-01 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "September 26 - October 1, 2027",
-          "location": "Florence, Italy",
-          "website": "https://2027.ieee-iros.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B31",
@@ -1739,31 +785,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/aistats/",
       "key": "aistats",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "AISTATS 2027 Rebuttal Submission",
-          "name": "International Conference on Artificial Intelligence and Statistics",
-          "deadlineIso": "2026-11-22T23:59:59-12:00",
-          "deadlineText": "2026-11-22 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "May 3-6, 2027",
-          "location": "Montréal, Canada",
-          "website": "https://virtual.aistats.org/Conferences/2027",
-          "source": "ccfddl"
-        },
-        {
-          "title": "AISTATS 2027 Final Decisions",
-          "name": "International Conference on Artificial Intelligence and Statistics",
-          "deadlineIso": "2027-01-20T23:59:59-12:00",
-          "deadlineText": "2027-01-20 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "May 3-6, 2027",
-          "location": "Montréal, Canada",
-          "website": "https://virtual.aistats.org/Conferences/2027",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B32",
@@ -1776,53 +798,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/coling/",
       "key": "coling",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "COLING 2027 Deadline [ARR Submission]",
-          "name": "International Conference on Computational Linguistics",
-          "deadlineIso": "2026-10-12T23:59:59-12:00",
-          "deadlineText": "2026-10-12 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "May 9-14, 2027",
-          "location": "Macau SAR, China",
-          "website": "https://2027.coling-iccl.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "COLING 2027 Rebuttal Submission [ARR Submission]",
-          "name": "International Conference on Computational Linguistics",
-          "deadlineIso": "2026-11-30T23:59:59-12:00",
-          "deadlineText": "2026-11-30 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "May 9-14, 2027",
-          "location": "Macau SAR, China",
-          "website": "https://2027.coling-iccl.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "COLING 2027 Deadline [COLING commitment after ARR meta-reviews; reviewed papers only]",
-          "name": "International Conference on Computational Linguistics",
-          "deadlineIso": "2026-12-23T23:59:59-12:00",
-          "deadlineText": "2026-12-23 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "May 9-14, 2027",
-          "location": "Macau SAR, China",
-          "website": "https://2027.coling-iccl.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "COLING 2027 Final Decisions [COLING commitment after ARR meta-reviews; reviewed papers only]",
-          "name": "International Conference on Computational Linguistics",
-          "deadlineIso": "2027-02-10T23:59:59-12:00",
-          "deadlineText": "2027-02-10 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "May 9-14, 2027",
-          "location": "Macau SAR, China",
-          "website": "https://2027.coling-iccl.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B33",
@@ -1835,31 +811,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/dasfaa/",
       "key": "dasfaa",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "DASFAA 2027 Deadline [Research papers]",
-          "name": "Database Systems for Advanced Applications",
-          "deadlineIso": "2026-11-25T23:59:00-12:00",
-          "deadlineText": "2026-11-25 23:59:00",
-          "deadlineZone": "AoE",
-          "eventDate": "May 27-30, 2027",
-          "location": "Shenyang, China",
-          "website": "https://dasfaa2027.github.io/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "DASFAA 2027 Final Decisions [Research papers]",
-          "name": "Database Systems for Advanced Applications",
-          "deadlineIso": "2027-01-25T23:59:00-12:00",
-          "deadlineText": "2027-01-25 23:59:00",
-          "deadlineZone": "AoE",
-          "eventDate": "May 27-30, 2027",
-          "location": "Shenyang, China",
-          "website": "https://dasfaa2027.github.io/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B34",
@@ -1872,31 +824,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/icdt/",
       "key": "icdt",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "ICDT 2027 Rebuttal Submission",
-          "name": "International Conference on Database Theory",
-          "deadlineIso": "2026-11-07T23:59:59-12:00",
-          "deadlineText": "2026-11-07 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "April 6-9, 2027",
-          "location": "Lille, France",
-          "website": "https://edbticdt2027.github.io/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "ICDT 2027 Final Decisions",
-          "name": "International Conference on Database Theory",
-          "deadlineIso": "2026-12-01T23:59:59-12:00",
-          "deadlineText": "2026-12-01 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "April 6-9, 2027",
-          "location": "Lille, France",
-          "website": "https://edbticdt2027.github.io/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B35",
@@ -1909,53 +837,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/icdar/",
       "key": "icdar",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "ICDAR 2027 Abstract Deadline",
-          "name": "International Conference on Document Analysis and Recognition",
-          "deadlineIso": "2027-01-31T23:59:59-12:00",
-          "deadlineText": "2027-01-31 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "August 18 - 22, 2027",
-          "location": "Kuala Lumpur, Malaysia",
-          "website": "https://icdar2027.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "ICDAR 2027 Deadline",
-          "name": "International Conference on Document Analysis and Recognition",
-          "deadlineIso": "2027-02-20T23:59:59-12:00",
-          "deadlineText": "2027-02-20 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "August 18 - 22, 2027",
-          "location": "Kuala Lumpur, Malaysia",
-          "website": "https://icdar2027.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "ICDAR 2027 Rebuttal Submission",
-          "name": "International Conference on Document Analysis and Recognition",
-          "deadlineIso": "2027-04-27T23:59:59-12:00",
-          "deadlineText": "2027-04-27 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "August 18 - 22, 2027",
-          "location": "Kuala Lumpur, Malaysia",
-          "website": "https://icdar2027.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "ICDAR 2027 Final Decisions",
-          "name": "International Conference on Document Analysis and Recognition",
-          "deadlineIso": "2027-05-15T23:59:59-12:00",
-          "deadlineText": "2027-05-15 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "August 18 - 22, 2027",
-          "location": "Kuala Lumpur, Malaysia",
-          "website": "https://icdar2027.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B36",
@@ -1968,20 +850,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/edbt/",
       "key": "edbt",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "EDBT 2027 Final Decisions",
-          "name": "International Conference on Extending Database Technology",
-          "deadlineIso": "2027-01-27T13:00:00-12:00",
-          "deadlineText": "2027-01-27 13:00:00",
-          "deadlineZone": "AoE",
-          "eventDate": "April 6-9, 2027",
-          "location": "Lille, France",
-          "website": "https://edbticdt2027.github.io/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B37",
@@ -1994,42 +863,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/icpr/",
       "key": "icpr",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "ICPR 2027 Abstract Deadline [All dates tentative; March 1 is paper registration; author rebuttal April 23 (provisional, cutoff unspecified)]",
-          "name": "International Conference on Pattern Recognition",
-          "deadlineIso": "2027-03-01T23:59:59-12:00",
-          "deadlineText": "2027-03-01 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "October 4-6 and 14-15, 2027",
-          "location": "Online",
-          "website": "https://www.icpr2027.com/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "ICPR 2027 Deadline [All dates tentative; March 1 is paper registration; author rebuttal April 23 (provisional, cutoff unspecified)]",
-          "name": "International Conference on Pattern Recognition",
-          "deadlineIso": "2027-03-08T23:59:59-12:00",
-          "deadlineText": "2027-03-08 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "October 4-6 and 14-15, 2027",
-          "location": "Online",
-          "website": "https://www.icpr2027.com/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "ICPR 2027 Final Decisions [All dates tentative; March 1 is paper registration; author rebuttal April 23 (provisional, cutoff unspecified)]",
-          "name": "International Conference on Pattern Recognition",
-          "deadlineIso": "2027-05-31T23:59:59-12:00",
-          "deadlineText": "2027-05-31 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "October 4-6 and 14-15, 2027",
-          "location": "Online",
-          "website": "https://www.icpr2027.com/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B38",
@@ -2042,53 +876,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/kr/",
       "key": "kr",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "KR 2027 Abstract Deadline [Main track; author response period: June 15-18, 2027]",
-          "name": "International Conference on Principles of Knowledge Representation and Reasoning",
-          "deadlineIso": "2027-04-23T23:59:59-12:00",
-          "deadlineText": "2027-04-23 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "September 21-24, 2027",
-          "location": "Buenos Aires, Argentina",
-          "website": "https://kr.org/KR2027/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "KR 2027 Deadline [Main track; author response period: June 15-18, 2027]",
-          "name": "International Conference on Principles of Knowledge Representation and Reasoning",
-          "deadlineIso": "2027-04-28T23:59:59-12:00",
-          "deadlineText": "2027-04-28 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "September 21-24, 2027",
-          "location": "Buenos Aires, Argentina",
-          "website": "https://kr.org/KR2027/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "KR 2027 Rebuttal Submission [Main track; author response period: June 15-18, 2027]",
-          "name": "International Conference on Principles of Knowledge Representation and Reasoning",
-          "deadlineIso": "2027-06-18T23:59:59-12:00",
-          "deadlineText": "2027-06-18 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "September 21-24, 2027",
-          "location": "Buenos Aires, Argentina",
-          "website": "https://kr.org/KR2027/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "KR 2027 Final Decisions [Main track; author response period: June 15-18, 2027]",
-          "name": "International Conference on Principles of Knowledge Representation and Reasoning",
-          "deadlineIso": "2027-06-30T23:59:59-12:00",
-          "deadlineText": "2027-06-30 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "September 21-24, 2027",
-          "location": "Buenos Aires, Argentina",
-          "website": "https://kr.org/KR2027/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B39",
@@ -2114,18 +902,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/ismar/",
       "key": "ismar",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ISMAR 2026 Deadline",
-        "name": "International Symposium on Mixed and Augmented Reality",
-        "deadlineIso": "2026-03-16T23:59:59-12:00",
-        "deadlineText": "2026-03-16 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "October 7-9, 2026",
-        "location": "Bari, Italy",
-        "website": "https://www.ieeeismar.net/2026/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B41",
@@ -2138,53 +915,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/naacl/",
       "key": "naacl",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "NAACL 2027 Deadline [ARR Submission]",
-          "name": "The Annual Conference of the North American Chapter of the Association for Computational Linguistics",
-          "deadlineIso": "2026-10-12T23:59:59-12:00",
-          "deadlineText": "2026-10-12 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "June 1-5, 2027",
-          "location": "San Francisco, California, USA",
-          "website": "https://2027.naacl.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "NAACL 2027 Rebuttal Submission [ARR Submission]",
-          "name": "The Annual Conference of the North American Chapter of the Association for Computational Linguistics",
-          "deadlineIso": "2026-11-30T23:59:59-12:00",
-          "deadlineText": "2026-11-30 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "June 1-5, 2027",
-          "location": "San Francisco, California, USA",
-          "website": "https://2027.naacl.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "NAACL 2027 Deadline [NAACL commitment after ARR meta-reviews; reviewed papers only]",
-          "name": "The Annual Conference of the North American Chapter of the Association for Computational Linguistics",
-          "deadlineIso": "2026-12-23T23:59:59-12:00",
-          "deadlineText": "2026-12-23 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "June 1-5, 2027",
-          "location": "San Francisco, California, USA",
-          "website": "https://2027.naacl.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "NAACL 2027 Final Decisions [NAACL commitment after ARR meta-reviews; reviewed papers only]",
-          "name": "The Annual Conference of the North American Chapter of the Association for Computational Linguistics",
-          "deadlineIso": "2027-02-10T23:59:59-12:00",
-          "deadlineText": "2027-02-10 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "June 1-5, 2027",
-          "location": "San Francisco, California, USA",
-          "website": "https://2027.naacl.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "B42",
@@ -2197,18 +928,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/pg/",
       "key": "pg",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "PG 2026 Deadline",
-        "name": "Pacific Graphics, The Pacific Conference on Computer Graphics and Applications",
-        "deadlineIso": "2026-06-08T23:59:59-12:00",
-        "deadlineText": "2026-06-08 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "October 6-9, 2026",
-        "location": "Singapore Management University, Singapore",
-        "website": "https://pacificgraphics2026.github.io/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B43",
@@ -2221,18 +941,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/ppsn/",
       "key": "ppsn",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "PPSN 2026 Deadline",
-        "name": "International Conference on Parallel Problem Solving From Nature",
-        "deadlineIso": "2026-03-28T23:59:59-12:00",
-        "deadlineText": "2026-03-28 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "August 31-September 2, 2026",
-        "location": "University of Trento, Trento, Italy",
-        "website": "https://ppsn2026.disi.unitn.it/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B44",
@@ -2245,18 +954,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/sdm/",
       "key": "sdm",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "SDM 2026 Deadline",
-        "name": "SIAM International Conference on Data Mining",
-        "deadlineIso": "2026-04-17T23:59:59-12:00",
-        "deadlineText": "2026-04-17 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "November 19-20, 2026",
-        "location": "Salt Lake City, Utah, USA",
-        "website": "https://www.siam.org/conferences-events/siam-conferences/sdm26/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B45",
@@ -2269,18 +967,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/sma/",
       "key": "sma",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "SPM 2026 Deadline",
-        "name": "Symposium on Solid and Physical Modeling",
-        "deadlineIso": "2026-02-15T23:59:59-12:00",
-        "deadlineText": "2026-02-15 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "July 6-9, 2026",
-        "location": "Istanbul, Türkiye",
-        "website": "https://spmconf2026.github.io/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "B46",
@@ -2306,20 +993,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/icwsm/",
       "key": "icwsm",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "ICWSM 2027 Deadline [3rd Full-paper Deadline]",
-          "name": "The International AAAI Conference on Web and Social Media",
-          "deadlineIso": "2027-01-15T23:59:59-12:00",
-          "deadlineText": "2027-01-15 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "TBD",
-          "location": "Edinburgh, Scotland",
-          "website": "https://www.icwsm.org/2027/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C01",
@@ -2332,18 +1006,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/acmidc/",
       "key": "acmidc",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "IDC 2026 Deadline",
-        "name": "ACM Interaction Design and Children Conference",
-        "deadlineIso": "2026-01-28T00:00:00-12:00",
-        "deadlineText": "2026-01-28 00:00:00",
-        "deadlineZone": "AoE",
-        "eventDate": "TBD",
-        "location": "Brighton, UK",
-        "website": "https://idc.acm.org/2026/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C02",
@@ -2356,18 +1019,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/icmi/",
       "key": "icmi",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ICMI 2026 Deadline [Paper deadline extended to Apr 23, 23:59 AoE; normalized to UTC-7]",
-        "name": "ACM International Conference on Multimodal Interaction",
-        "deadlineIso": "2026-04-24T04:59:59-07:00",
-        "deadlineText": "2026-04-24 04:59:59",
-        "deadlineZone": "UTC-7",
-        "eventDate": "October 6-8, 2026",
-        "location": "Napoli, Italy",
-        "website": "https://icmi.acm.org/2026/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C03",
@@ -2380,18 +1032,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/mmasia/",
       "key": "mmasia",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "MMAsia 2026 Deadline",
-        "name": "ACM Multimedia Asia",
-        "deadlineIso": "2026-08-14T23:59:59-12:00",
-        "deadlineText": "2026-08-14 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "December 15-18, 2026",
-        "location": "VinUniversity, Hanoi, Vietnam",
-        "website": "https://www.mmasia2026.org/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C04",
@@ -2404,31 +1045,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/ACMdis/",
       "key": "acmdis",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "DIS 2027 Abstract Deadline",
-          "name": "ACM Conference on Designing Interactive Systems",
-          "deadlineIso": "2027-01-11T23:59:59-12:00",
-          "deadlineText": "2027-01-11 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "June 28 - July 2, 2027",
-          "location": "Stockholm, Sweden",
-          "website": "https://dis.acm.org/2027/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "DIS 2027 Deadline",
-          "name": "ACM Conference on Designing Interactive Systems",
-          "deadlineIso": "2027-01-18T23:59:59-12:00",
-          "deadlineText": "2027-01-18 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "June 28 - July 2, 2027",
-          "location": "Stockholm, Sweden",
-          "website": "https://dis.acm.org/2027/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C05",
@@ -2480,42 +1097,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/alt/",
       "key": "alt",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "ALT 2027 Deadline",
-          "name": "International Conference on Algorithmic Learning Theory",
-          "deadlineIso": "2026-10-12T23:59:59-12:00",
-          "deadlineText": "2026-10-12 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "March 9-12, 2027",
-          "location": "Leiden, Netherlands",
-          "website": "https://algorithmiclearningtheory.org/alt2027/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "ALT 2027 Rebuttal Submission",
-          "name": "International Conference on Algorithmic Learning Theory",
-          "deadlineIso": "2026-12-06T23:59:59-12:00",
-          "deadlineText": "2026-12-06 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "March 9-12, 2027",
-          "location": "Leiden, Netherlands",
-          "website": "https://algorithmiclearningtheory.org/alt2027/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "ALT 2027 Final Decisions",
-          "name": "International Conference on Algorithmic Learning Theory",
-          "deadlineIso": "2027-01-05T23:59:59-12:00",
-          "deadlineText": "2027-01-05 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "March 9-12, 2027",
-          "location": "Leiden, Netherlands",
-          "website": "https://algorithmiclearningtheory.org/alt2027/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C09",
@@ -2528,18 +1110,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/apweb/",
       "key": "apweb",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "APWeb-WAIM 2026 Deadline [second round]",
-        "name": "APWeb-WAIM joint international conference on Web and Big Data",
-        "deadlineIso": "2026-05-24T23:59:59-12:00",
-        "deadlineText": "2026-05-24 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "September 7-9, 2026",
-        "location": "Danang, Vietnam / Online",
-        "website": "https://conferences.sigappfr.org/apweb2026/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C10",
@@ -2552,18 +1123,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/accv/",
       "key": "accv",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ACCV 2026 Deadline",
-        "name": "Asian Conference on Computer Vision",
-        "deadlineIso": "2026-07-05T23:59:59+00:00",
-        "deadlineText": "2026-07-05 23:59:59",
-        "deadlineZone": "UTC+0",
-        "eventDate": "December 16-18, 2026",
-        "location": "Osaka, Japan",
-        "website": "https://accv2026.org/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C11",
@@ -2576,18 +1136,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/acml/",
       "key": "acml",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ACML 2026 Deadline [Conference Track]",
-        "name": "Asian Conference on Machine Learning",
-        "deadlineIso": "2026-07-05T23:59:59-12:00",
-        "deadlineText": "2026-07-05 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "TBD",
-        "location": "Melbourne, Australia",
-        "website": "https://www.acml-conf.org/2026/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C12",
@@ -2626,18 +1175,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/bmvc/",
       "key": "bmvc",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "BMVC 2026 Deadline",
-        "name": "British Machine Vision Conference",
-        "deadlineIso": "2026-05-29T23:59:59-12:00",
-        "deadlineText": "2026-05-29 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "November 23-26, 2026",
-        "location": "Lancaster, UK",
-        "website": "https://bmvc2026.bmva.org/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C15",
@@ -2650,18 +1188,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/nlpcc/",
       "key": "nlpcc",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "NLPCC 2026 Deadline",
-        "name": "CCF International Conference on Natural Language Processing and Chinese Computing",
-        "deadlineIso": "2026-06-20T23:59:59+08:00",
-        "deadlineText": "2026-06-20 23:59:59",
-        "deadlineZone": "UTC+8",
-        "eventDate": "November 4-5, 2026",
-        "location": "Macau, China",
-        "website": "http://tcci.ccf.org.cn/conference/2026/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C16",
@@ -2674,18 +1201,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/prcv/",
       "key": "prcv",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "PRCV 2026 Deadline",
-        "name": "Chinese Conference on Pattern Recognition and Computer Vision",
-        "deadlineIso": "2026-05-30T23:59:59-12:00",
-        "deadlineText": "2026-05-30 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "August 23-24, 2026",
-        "location": "Harbin, China",
-        "website": "https://www.prcv.cn/web/#/home",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C17",
@@ -2698,42 +1214,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/cvm/",
       "key": "cvm",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "CVM 2027 Abstract Deadline",
-          "name": "The international conference on Computational Visual Media",
-          "deadlineIso": "2026-10-23T23:59:59+00:00",
-          "deadlineText": "2026-10-23 23:59:59",
-          "deadlineZone": "UTC+0",
-          "eventDate": "April 9-11, 2027",
-          "location": "Nanyang Technological University, Singapore",
-          "website": "http://iccvm.org/2027/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "CVM 2027 Deadline",
-          "name": "The international conference on Computational Visual Media",
-          "deadlineIso": "2026-10-26T23:59:59+00:00",
-          "deadlineText": "2026-10-26 23:59:59",
-          "deadlineZone": "UTC+0",
-          "eventDate": "April 9-11, 2027",
-          "location": "Nanyang Technological University, Singapore",
-          "website": "http://iccvm.org/2027/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "CVM 2027 Final Decisions",
-          "name": "The international conference on Computational Visual Media",
-          "deadlineIso": "2026-12-15T23:59:59+00:00",
-          "deadlineText": "2026-12-15 23:59:59",
-          "deadlineZone": "UTC+0",
-          "eventDate": "April 9-11, 2027",
-          "location": "Nanyang Technological University, Singapore",
-          "website": "http://iccvm.org/2027/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C18",
@@ -2746,20 +1227,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/cgi/",
       "key": "cgi",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "CGI 2027 Deadline [Regular conference papers (LNCS proceedings track)]",
-          "name": "Computer Graphics International",
-          "deadlineIso": "2027-04-20T23:59:59+00:00",
-          "deadlineText": "2027-04-20 23:59:59",
-          "deadlineZone": "UTC",
-          "eventDate": "July 5-9, 2027",
-          "location": "Cairns, Australia",
-          "website": "https://cgs-network.org/cgi27/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C19",
@@ -2772,18 +1240,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/conll/",
       "key": "conll",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "CoNLL 2026 Deadline",
-        "name": "Conference on Computational Natural Language Learning",
-        "deadlineIso": "2026-02-19T23:59:59-12:00",
-        "deadlineText": "2026-02-19 23:59:59",
-        "deadlineZone": "UTC-12",
-        "eventDate": "July 3 - 4, 2026",
-        "location": "San Diego, California, United States",
-        "website": "https://www.conll.org/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C20",
@@ -2796,18 +1253,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/corl/",
       "key": "corl",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "CoRL 2026 Deadline",
-        "name": "The Conference on Robot Learning",
-        "deadlineIso": "2026-05-28T23:59:59-12:00",
-        "deadlineText": "2026-05-28 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "November 9-11, 2026",
-        "location": "Austin, Texas, USA",
-        "website": "https://www.corl.org/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C21",
@@ -2820,20 +1266,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/ecir/",
       "key": "ecir",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "ECIR 2027 Final Decisions",
-          "name": "European Conference on Information Retrieval",
-          "deadlineIso": "2026-12-08T11:59:00+00:00",
-          "deadlineText": "2026-12-08 11:59:00",
-          "deadlineZone": "UTC+0",
-          "eventDate": "March 21-25, 2027",
-          "location": "Southampton, UK",
-          "website": "https://ecir2027.co.uk/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C22",
@@ -2846,18 +1279,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/esws/",
       "key": "esws",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ESWC 2026 Deadline",
-        "name": "European Semantic Web Conference",
-        "deadlineIso": "2025-12-04T23:59:00-12:00",
-        "deadlineText": "2025-12-04 23:59:00",
-        "deadlineZone": "AoE",
-        "eventDate": "May 12-14, 2026",
-        "location": "Dubrovnik, Croatia",
-        "website": "https://2026.eswc-conferences.org/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C23",
@@ -2870,18 +1292,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/gecco/",
       "key": "gecco",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "GECCO 2026 Deadline",
-        "name": "Genetic and Evolutionary Computation Conference",
-        "deadlineIso": "2026-01-26T23:59:59-12:00",
-        "deadlineText": "2026-01-26 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "July 15-17, 2026",
-        "location": "San José, Costa Rica (hybrid)",
-        "website": "https://gecco-2026.sigevo.org/HomePage",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C24",
@@ -2894,42 +1305,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/gmp/",
       "key": "gmp",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "GMP 2027 Abstract Deadline",
-          "name": "International Conference on Geometric Modeling and Processing",
-          "deadlineIso": "2026-12-14T23:59:59+00:00",
-          "deadlineText": "2026-12-14 23:59:59",
-          "deadlineZone": "UTC",
-          "eventDate": "June 21-25, 2027",
-          "location": "Singapore",
-          "website": "https://gmp-conference-2027.github.io/gmp2027/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "GMP 2027 Deadline",
-          "name": "International Conference on Geometric Modeling and Processing",
-          "deadlineIso": "2026-12-21T23:59:59+00:00",
-          "deadlineText": "2026-12-21 23:59:59",
-          "deadlineZone": "UTC",
-          "eventDate": "June 21-25, 2027",
-          "location": "Singapore",
-          "website": "https://gmp-conference-2027.github.io/gmp2027/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "GMP 2027 Final Decisions",
-          "name": "International Conference on Geometric Modeling and Processing",
-          "deadlineIso": "2027-04-27T11:59:00+00:00",
-          "deadlineText": "2027-04-27 11:59:00",
-          "deadlineZone": "UTC",
-          "eventDate": "June 21-25, 2027",
-          "location": "Singapore",
-          "website": "https://gmp-conference-2027.github.io/gmp2027/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C25",
@@ -2942,31 +1318,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/graphicsinterface/",
       "key": "graphicsinterface",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "GI 2027 Deadline",
-          "name": "Graphics Interface",
-          "deadlineIso": "2027-02-05T23:59:59-12:00",
-          "deadlineText": "2027-02-05 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "June 15-18, 2027",
-          "location": "Winnipeg, Canada",
-          "website": "https://conferences.graphicsinterface.org/2027",
-          "source": "ccfddl"
-        },
-        {
-          "title": "GI 2027 Final Decisions",
-          "name": "Graphics Interface",
-          "deadlineIso": "2027-04-30T23:59:59-12:00",
-          "deadlineText": "2027-04-30 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "June 15-18, 2027",
-          "location": "Winnipeg, Canada",
-          "website": "https://conferences.graphicsinterface.org/2027",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C26",
@@ -2979,18 +1331,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/smc/",
       "key": "smc",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "SMC 2026 Deadline",
-        "name": "IEEE International Conference on Systems, Man, and Cybernetics",
-        "deadlineIso": "2026-05-03T23:59:59-07:00",
-        "deadlineText": "2026-05-03 23:59:59",
-        "deadlineZone": "UTC-7",
-        "eventDate": "October 4-7, 2026",
-        "location": "Bellevue, WA, USA",
-        "website": "https://www.ieeesmc2026.org/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C27",
@@ -3003,31 +1344,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/cec/",
       "key": "cec",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "IEEE CEC 2027 Deadline",
-          "name": "IEEE Congress on Evolutionary Computation",
-          "deadlineIso": "2027-02-28T23:59:59-12:00",
-          "deadlineText": "2027-02-28 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "July 25-28, 2027",
-          "location": "Edinburgh, Scotland, UK",
-          "website": "https://ieeecec.org/2027",
-          "source": "ccfddl"
-        },
-        {
-          "title": "IEEE CEC 2027 Final Decisions",
-          "name": "IEEE Congress on Evolutionary Computation",
-          "deadlineIso": "2027-04-07T23:59:59-12:00",
-          "deadlineText": "2027-04-07 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "July 25-28, 2027",
-          "location": "Edinburgh, Scotland, UK",
-          "website": "https://ieeecec.org/2027",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C28",
@@ -3040,20 +1357,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/hpca/",
       "key": "hpca",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "HPCA 2027 Final Decisions",
-          "name": "IEEE International Symposium on High-Performance Computer Architecture",
-          "deadlineIso": "2026-11-06T23:59:59-12:00",
-          "deadlineText": "2026-11-06 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "March 20-24, 2027",
-          "location": "Salt Lake City, Utah",
-          "website": "https://conf.researchr.org/home/hpca-2027",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C29",
@@ -3105,20 +1409,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/icip/",
       "key": "icip",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "ICIP 2027 Deadline",
-          "name": "The IEEE International Conference on Image Processing",
-          "deadlineIso": "2027-03-31T23:59:59-12:00",
-          "deadlineText": "2027-03-31 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "November 29-December 3, 2027",
-          "location": "Singapore",
-          "website": "https://2027.ieeeicip.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C33",
@@ -3144,18 +1435,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/uic/",
       "key": "uic",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "UIC 2026 Deadline",
-        "name": "IEEE International Conference on Ubiquitous Intelligence and Computing",
-        "deadlineIso": "2026-05-31T23:59:59+02:00",
-        "deadlineText": "2026-05-31 23:59:59",
-        "deadlineZone": "UTC+2",
-        "eventDate": "September 8-11, 2026",
-        "location": "Rende, Italy",
-        "website": "https://swc-ieee-2026.github.io/uic/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C35",
@@ -3207,20 +1487,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/haptics/",
       "key": "haptics",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "WHC 2027 Deadline",
-          "name": "IEEE World Haptics Conference",
-          "deadlineIso": "2027-01-29T23:59:59-12:00",
-          "deadlineText": "2027-01-29 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "July 12-15, 2027",
-          "location": "Boston, Massachusetts, USA",
-          "website": "https://2027.worldhaptics.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C39",
@@ -3233,18 +1500,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/assets/",
       "key": "assets",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ASSETS 2026 Deadline",
-        "name": "ACM SIGACCESS Conference on Computers and Accessibility",
-        "deadlineIso": "2026-04-22T23:59:59-12:00",
-        "deadlineText": "2026-04-22 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "October 25-28, 2026",
-        "location": "Porto, Portugal",
-        "website": "https://assets26.sigaccess.org/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C40",
@@ -3270,18 +1526,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/3dim/",
       "key": "3dim",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "3DV 2027 Deadline [Regular-paper abstract registration and paper submission are both due Aug 28.]",
-        "name": "International Conference on 3D Vision",
-        "deadlineIso": "2026-08-28T23:59:59-12:00",
-        "deadlineText": "2026-08-28 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "April 6-9, 2027",
-        "location": "Thessaloniki, Greece",
-        "website": "https://3dvconf.github.io/2027/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C42",
@@ -3294,18 +1539,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/adma/",
       "key": "adma",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ADMA 2026 Deadline",
-        "name": "The International Conference on Advanced Data Mining and Applications",
-        "deadlineIso": "2026-07-17T23:59:59-12:00",
-        "deadlineText": "2026-07-17 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "November 13 - 15, 2026",
-        "location": "Hong Kong, China",
-        "website": "https://adma2026.github.io/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C43",
@@ -3331,18 +1565,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/icann/",
       "key": "icann",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ICANN 2026 Deadline",
-        "name": "International Conference on Artificial Neural Networks",
-        "deadlineIso": "2026-03-30T23:59:59-12:00",
-        "deadlineText": "2026-03-30 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "September 15-17, 2026",
-        "location": "Conference center of the School of Psychology, University of Padua, Italy",
-        "website": "https://e-nns.org/icann2026/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C45",
@@ -3355,18 +1578,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/ca/",
       "key": "ca",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "CASA 2026 Deadline",
-        "name": "International Conference on Computer Animation and Social Agents",
-        "deadlineIso": "2026-02-10T23:59:59-12:00",
-        "deadlineText": "2026-02-10 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "June 1-3, 2026",
-        "location": "Geneva, Switzerland (Hybrid)",
-        "website": "https://cgs-network.org/CASAXR26/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C46",
@@ -3470,42 +1682,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/interact/",
       "key": "interact",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "INTERACT 2027 Abstract Deadline",
-          "name": "IFIP TC13 International Conference on Human-Computer Interaction",
-          "deadlineIso": "2027-01-25T23:59:59-12:00",
-          "deadlineText": "2027-01-25 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "August 23-27, 2027",
-          "location": "Tallinn, Estonia",
-          "website": "https://interact2027.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "INTERACT 2027 Deadline",
-          "name": "IFIP TC13 International Conference on Human-Computer Interaction",
-          "deadlineIso": "2027-02-01T23:59:59-12:00",
-          "deadlineText": "2027-02-01 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "August 23-27, 2027",
-          "location": "Tallinn, Estonia",
-          "website": "https://interact2027.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "INTERACT 2027 Rebuttal Submission",
-          "name": "IFIP TC13 International Conference on Human-Computer Interaction",
-          "deadlineIso": "2027-03-22T23:59:59-12:00",
-          "deadlineText": "2027-03-22 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "August 23-27, 2027",
-          "location": "Tallinn, Estonia",
-          "website": "https://interact2027.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C54",
@@ -3531,18 +1708,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/ksem/",
       "key": "ksem",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "KSEM 2026 Deadline",
-        "name": "International Conference on Knowledge Science, Engineering and Management",
-        "deadlineIso": "2026-02-28T23:59:59-12:00",
-        "deadlineText": "2026-02-28 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "July 17-18, 2026",
-        "location": "Beijing, China",
-        "website": "https://ksem2026.rosc.org.cn/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C56",
@@ -3594,20 +1760,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/mmm/",
       "key": "mmm",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "MMM 2027 Final Decisions [Regular papers; extended deadline]",
-          "name": "International Conference on Multimedia Modeling",
-          "deadlineIso": "2026-10-16T23:59:59-12:00",
-          "deadlineText": "2026-10-16 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "January 5-8, 2027",
-          "location": "Siem Reap, Cambodia",
-          "website": "https://www.mmm2027.net/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C60",
@@ -3620,18 +1773,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/iconip/",
       "key": "iconip",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "ICONIP 2026 Deadline",
-        "name": "International Conference on Neural Information Processing",
-        "deadlineIso": "2026-05-31T23:59:59-12:00",
-        "deadlineText": "2026-05-31 23:59:59",
-        "deadlineZone": "UTC-12",
-        "eventDate": "November 23-27, 2026",
-        "location": "Melbourne, Australia",
-        "website": "https://www.iconip2026.org/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C61",
@@ -3709,18 +1851,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/icb/",
       "key": "icb",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "IJCB 2026 Deadline",
-        "name": "International Joint Conference on Biometrics",
-        "deadlineIso": "2026-04-30T23:59:59-12:00",
-        "deadlineText": "2026-04-30 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "September 1-4, 2026",
-        "location": "Rome, Italy",
-        "website": "https://ijcb2026.ieee-biometrics.org/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C67",
@@ -3733,31 +1864,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/ijcnn/",
       "key": "ijcnn",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "IJCNN 2027 Deadline",
-          "name": "International Joint Conference on Neural Networks",
-          "deadlineIso": "2027-01-31T23:59:59-12:00",
-          "deadlineText": "2027-01-31 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "June 14 - 18, 2027",
-          "location": "Cape Town, South Africa",
-          "website": "https://ijcnn.org/2027",
-          "source": "ccfddl"
-        },
-        {
-          "title": "IJCNN 2027 Final Decisions",
-          "name": "International Joint Conference on Neural Networks",
-          "deadlineIso": "2027-03-15T23:59:59-12:00",
-          "deadlineText": "2027-03-15 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "June 14 - 18, 2027",
-          "location": "Cape Town, South Africa",
-          "website": "https://ijcnn.org/2027",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C68",
@@ -3835,18 +1942,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/pricai/",
       "key": "pricai",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "PRICAI 2026 Deadline",
-        "name": "Pacific Rim International Conference on Artificial Intelligence",
-        "deadlineIso": "2026-06-27T23:59:59-12:00",
-        "deadlineText": "2026-06-27 23:59:59",
-        "deadlineZone": "UTC-12",
-        "eventDate": "November 18-20, 2026",
-        "location": "Guangzhou, China",
-        "website": "https://2026.pricai.org/",
-        "source": "ccfddl"
-      }
+      "notes": []
     },
     {
       "id": "C74",
@@ -3859,31 +1955,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/pakdd/",
       "key": "pakdd",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "PAKDD 2027 Deadline",
-          "name": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
-          "deadlineIso": "2026-11-20T23:59:59-12:00",
-          "deadlineText": "2026-11-20 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "June 29-July 2, 2027",
-          "location": "Wellington, New Zealand",
-          "website": "https://www.pakdd2027.org/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "PAKDD 2027 Final Decisions",
-          "name": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
-          "deadlineIso": "2027-02-26T23:59:59-12:00",
-          "deadlineText": "2027-02-26 23:59:59",
-          "deadlineZone": "AoE",
-          "eventDate": "June 29-July 2, 2027",
-          "location": "Wellington, New Zealand",
-          "website": "https://www.pakdd2027.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C75",
@@ -3896,42 +1968,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/smi/",
       "key": "smi",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "SMI 2027 Abstract Deadline [Abstract submission is a soft deadline]",
-          "name": "Shape Modeling International",
-          "deadlineIso": "2027-03-01T23:59:59+00:00",
-          "deadlineText": "2027-03-01 23:59:59",
-          "deadlineZone": "UTC",
-          "eventDate": "June 21-25, 2027",
-          "location": "Singapore",
-          "website": "https://smiconf.github.io/2027/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "SMI 2027 Deadline [Abstract submission is a soft deadline]",
-          "name": "Shape Modeling International",
-          "deadlineIso": "2027-03-08T23:59:59+00:00",
-          "deadlineText": "2027-03-08 23:59:59",
-          "deadlineZone": "UTC",
-          "eventDate": "June 21-25, 2027",
-          "location": "Singapore",
-          "website": "https://smiconf.github.io/2027/",
-          "source": "ccfddl"
-        },
-        {
-          "title": "SMI 2027 Final Decisions [Abstract submission is a soft deadline]",
-          "name": "Shape Modeling International",
-          "deadlineIso": "2027-05-03T23:59:59+00:00",
-          "deadlineText": "2027-05-03 23:59:59",
-          "deadlineZone": "UTC",
-          "eventDate": "June 21-25, 2027",
-          "location": "Singapore",
-          "website": "https://smiconf.github.io/2027/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C76",
@@ -3944,20 +1981,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/eacl/",
       "key": "eacl",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "EACL 2027 Final Decisions [EACL commitment after ARR meta-reviews; reviewed papers only]",
-          "name": "The Annual Conference of the European Chapter of the Association for Computational Linguistics",
-          "deadlineIso": "2026-11-12T23:59:59-12:00",
-          "deadlineText": "2026-11-12 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "March 9-14, 2027",
-          "location": "Athens, Greece",
-          "website": "https://2027.eacl.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C77",
@@ -3970,20 +1994,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/acl/",
       "key": "acl",
       "extraKeys": [],
-      "notes": [],
-      "deadlines": [
-        {
-          "title": "ACL 2027 Deadline [ARR Submission]",
-          "name": "Annual Meeting of the Association for Computational Linguistics",
-          "deadlineIso": "2027-01-04T23:59:59-12:00",
-          "deadlineText": "2027-01-04 23:59:59",
-          "deadlineZone": "UTC-12",
-          "eventDate": "August 17-22, 2027",
-          "location": "Kyoto, Japan",
-          "website": "https://2027.aclweb.org/",
-          "source": "ccfddl"
-        }
-      ]
+      "notes": []
     },
     {
       "id": "C78",
@@ -4009,18 +2020,7 @@ window.CAAI_DATA = {
       "sourceUrl": "https://dblp.uni-trier.de/db/conf/wise/",
       "key": "wise",
       "extraKeys": [],
-      "notes": [],
-      "lastKnownDeadline": {
-        "title": "WISE 2026 Deadline [Extended submission deadline]",
-        "name": "International Conference on Web Information Systems Engineering",
-        "deadlineIso": "2026-06-30T23:59:59-12:00",
-        "deadlineText": "2026-06-30 23:59:59",
-        "deadlineZone": "AoE",
-        "eventDate": "November 1-5, 2026",
-        "location": "Venice, Italy",
-        "website": "https://conferences.sigappfr.org/wise2026/",
-        "source": "ccfddl"
-      }
+      "notes": []
     }
   ]
 };
